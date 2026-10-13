@@ -67,7 +67,7 @@ def main():
 
         output_path = f"{fileroot}-judge.csv"
         df["judge_output"] = res
-        df.to_csv(output_path)
+        df.to_csv(output_path, index=False)
         print(f"Judget results saved to {output_path}\n")
 
 
