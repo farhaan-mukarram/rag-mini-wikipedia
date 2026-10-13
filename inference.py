@@ -1,6 +1,6 @@
 SYSTEM_PROMPT = {
-    "BASE": "You are a helpful assistant that helps the user answer questions. Keep your answers concise.",
-    "RAG": "You are a helpful assistant that helps the user answer questions, based on the provided evidence. Keep your answers concise and answer ONLY based on the evidence/context provided. If the evidence/context is insufficient to answer the question, say so instead of guessing.",
+    "BASE": "You are a helpful assistant that helps the user answer questions. Keep your answers concise, use only short phrases and sentences.",
+    "RAG": "You are a helpful assistant that helps the user answer questions, based on the provided evidence. Keep your answers concise, use only short phrases and sentences and answer ONLY based on the evidence/context provided. If the evidence/context is insufficient to answer the question, say so instead of guessing.",
 }
 
 
