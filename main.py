@@ -1,11 +1,12 @@
 import argparse
+
 import pandas as pd
 from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from inference import infer
-from utils.dataset import create_dataset
 from utils.chroma import init_chroma_client, init_collection, query_collection
+from utils.dataset import create_dataset
 
 
 def format_prompt(question: str, context: list[str] | None = None):
@@ -46,14 +47,19 @@ def main():
 
     rows = []
 
+    chroma_client = None
+    collection = None
+
+    if with_rag:
+        chroma_client = init_chroma_client()
+        collection = init_collection(chroma_client, ids=doc_ids, documents=corpus)
+
     for item in tqdm(qa_pairs, desc=f"Evaluating dataset in {mode} mode..."):
         question, answer, question_id = item["question"], item["answer"], item["id"]
 
         docs = None
 
         if with_rag:
-            chroma_client = init_chroma_client()
-            collection = init_collection(chroma_client, ids=doc_ids, documents=corpus)
             query_result = query_collection(collection, question)
             docs = query_result["documents"][0]
 
