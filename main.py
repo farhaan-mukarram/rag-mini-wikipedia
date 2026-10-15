@@ -1,9 +1,9 @@
 import argparse
 
 import pandas as pd
+from sentence_transformers import CrossEncoder
 from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
-from sentence_transformers import CrossEncoder
 
 from inference import infer
 from utils.chroma import init_chroma_client, init_collection, query_collection
@@ -38,7 +38,7 @@ def main():
     args = parse_args()
     mode = args.mode
 
-    with_rag = mode != "rag"
+    with_rag = mode != "base"
     with_reranker = mode == "rag-reranked"
 
     tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen3-4B")
