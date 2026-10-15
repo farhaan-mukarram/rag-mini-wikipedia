@@ -20,7 +20,7 @@ def main():
         MODEL_ID, dtype="auto", device_map="auto"
     )
 
-    for fileroot in ["res-base", "res-rag"]:
+    for fileroot in ["res-base", "res-rag", "reg-rag-reranked"]:
         df = pd.read_csv(f"{fileroot}.csv")
         res = []
 
@@ -53,7 +53,7 @@ def main():
             input_len = inputs["input_ids"].shape[-1]
 
             # Generate output
-            outputs = model.generate(**inputs, max_new_tokens=16)
+            outputs = model.generate(**inputs, max_new_tokens=16, do_sample=False)
             response = processor.decode(
                 outputs[0][input_len:], skip_special_tokens=False
             )

@@ -3,6 +3,7 @@ import argparse
 import pandas as pd
 from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
+from sentence_transformers import CrossEncoder
 
 from inference import infer
 from utils.chroma import init_chroma_client, init_collection, query_collection
@@ -24,7 +25,9 @@ def format_prompt(question: str, context: list[str] | None = None):
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-m", "--mode", default="base")
+    parser.add_argument(
+        "-m", "--mode", default="base", choices=["base", "rag", "rag-reranked"]
+    )
     args = parser.parse_args()
 
     return args
@@ -35,13 +38,13 @@ def main():
     args = parse_args()
     mode = args.mode
 
-    # args validation
-    assert mode in ["rag", "base"]
-
-    with_rag = mode == "rag"
+    with_rag = mode != "rag"
+    with_reranker = mode == "rag-reranked"
 
     tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen3-4B")
     model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen3-4B", device_map="auto")
+
+    reranker = None
 
     qa_pairs, corpus, doc_ids = create_dataset()
 
@@ -51,6 +54,7 @@ def main():
     collection = None
 
     if with_rag:
+        reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L6-v2")
         chroma_client = init_chroma_client()
         collection = init_collection(chroma_client, ids=doc_ids, documents=corpus)
 
@@ -58,12 +62,21 @@ def main():
         question, answer, question_id = item["question"], item["answer"], item["id"]
 
         docs = None
+        reranked_docs = None
 
         if with_rag:
             query_result = query_collection(collection, question)
             docs = query_result["documents"][0]
+            reranked_docs = docs
 
-        prompt = format_prompt(question=question, context=docs)
+            if with_reranker:
+                ranks = reranker.rank(question, docs)
+
+                # pick top 5 ranked docs
+                top_5_ranks = ranks[:5]
+                reranked_docs = [docs[rank["corpus_id"]] for rank in top_5_ranks]
+
+        prompt = format_prompt(question=question, context=reranked_docs)
 
         prediction = infer(
             model=model, tokenizer=tokenizer, prompt=prompt, with_rag=with_rag

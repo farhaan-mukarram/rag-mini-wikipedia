@@ -1,0 +1,925 @@
+question_id,question,answer,prediction
+0,Was Abraham Lincoln the sixteenth President of the United States?,yes,"Yes, according to the context, Abraham Lincoln was the sixteenth President of the United States."
+2,Did Lincoln sign the National Banking Act of 1863?,yes,"Yes, Lincoln signed the National Banking Act of 1863."
+4,Did his mother die of pneumonia?,no,"No, his mother did not die of pneumonia. She died of Typhoid fever."
+6,How many long was Lincoln's formal education?,18 months,Lincoln's formal education consisted of about 18 months of schooling.
+8,When did Lincoln begin his political career?,1832,Lincoln began his political career in 1832.
+10,What did The Legal Tender Act of 1862 establish?,"the United States Note, the first paper currency in United States history","The Legal Tender Act of 1862 established the United States Note, the first paper currency in U.S. history."
+12,Who suggested Lincoln grow a beard?,11-year-old Grace Bedell,Grace Bedell suggested Lincoln grow a beard.
+14,When did the Gettysburg address argue that America was born?,1776,"The Gettysburg Address argued that America was born in 1776, emphasizing the founding principles of liberty and equality."
+16,Did Lincoln beat John C. Breckinridge in the 1860 election?,yes,"Yes, Lincoln beat John C. Breckinridge in the 1860 election."
+18,Was Abraham Lincoln the first President of the United States?,No,"No. Abraham Lincoln was the 16th President of the United States, not the first. The first President was George Washington."
+20,Did Lincoln start his political career in 1832?,Yes,"Yes, Lincoln started his political career in 1832."
+22,Did Lincoln ever represent Alton & Sangamon Railroad?,Yes,"Yes, Lincoln represented the Alton & Sangamon Railroad in a 1851 case."
+24,Which county was Lincoln born in?,Hardin County,"Hardin County, Kentucky."
+26,When did Lincoln first serve as President?,"March 4, 1861",Lincoln first served as President in 1861.
+28,Who assassinated Lincoln?,John Wilkes Booth,John Wilkes Booth.
+30,Did Lincoln win the election of 1860?,Yes,"Yes, Lincoln won the election of 1860."
+32,Who was the general in charge at the Battle of Antietam?,General McClellan,Gen. John Alexander McClernand.
+34,Why did Lincoln issue the Emancipation Proclamation?,To free slaves ,Lincoln issued the Emancipation Proclamation to make the abolition of slavery in rebel states an official war goal and to align the Union war effort with the moral principles of the Declaration of Independence.
+37,Do scholars rank lincoln among the top three presidents?,Yes,"Yes, scholars rank Lincoln among the top three presidents."
+39,Did lincoln have 18 months of schooling?,Yes,"Yes, Lincoln had about 18 months of formal schooling."
+41,Was Lincoln chosen as a presidential candidate in 1860?,Yes,"Yes, Lincoln was chosen as a presidential candidate in 1860."
+43,How old was Lincoln in 1816?,seven,"In 1816, Lincoln was seven years old."
+45,When was the first photgraph of lincoln taken?,1846,The first photograph of Lincoln was taken in 1846.
+47,How long was Lincoln's legal Career?,23 years,23 years.
+49,What trail did Lincoln use a Farmers' Almanac in? ,"he defended William ""Duff"" Armstrong",The provided context does not mention Lincoln using a Farmers' Almanac on any specific trail.
+51,Did Abraham Lincoln live in the Frontier?,Yes,Yes. Abraham Lincoln lived in the Frontier.
+53,Did Lincoln's Wife's Family support slavery?,Yes,"Yes, Lincoln's wife's family supported slavery."
+80,Who is most noted for his contributions to the theory of molarity and molecular weight?,Amedeo Avogadro,Lorenzo Romano Amedeo Carlo Avogadro is most noted for his contributions to the theory of molarity and molecular weight.
+83,Who graduated in ecclesiastical law at the early age of 20 and began to practice?,Amedeo Avogadro,John Adams graduated in ecclesiastical law at the early age of 20 and began to practice.
+86,When did he publish another memoria?,1821,In 1821.
+89,When did he become a professor?,1820,He became a professor of physics at the University of Turin in 1820.
+92,Is it true that he became a professor in 1820?,yes,"Yes, it is true that he became a professor in 1820. The context states: ""In 1820 he became a professor of physics at the University of Turin."""
+95,Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?,yes,"Yes, Lorenzo Romano Amedeo Carlo Avogadro was an Italian savant."
+98,"Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?",yes,"Yes, based on the provided context."
+101,Is he most noted for his contributions to the theory of molarity and molecular weight?,yes,Yes. He is most noted for his contributions to the theory of molarity and molecular weight.
+115,Was King Victor Emmanuel III there to pay homage to Avogadro ?,yes,Yes.
+118,Is Avogadro 's number commonly used to compute the results of chemical reactions ?,yes,"Yes, Avogadro's number is commonly used to compute the results of chemical reactions."
+123,Did the scientific community not reserve great attention to his theory ?,yes,Yes. The scientific community did not reserve great attention to his theory.
+131,Can the title of this famous 1811 paper be roughly translated into english?,yes,"Yes, the title can be roughly translated into English as ""Essay on Determining the Relative Masses of the Elementary Molecules of Bodies."""
+136,What happened in 1833?,Avogadro had been recalled to Turin university,The context provided does not mention what happened in 1833.
+139,Who determined the dependence of the boiling of water with atmospheric pressure?,Anders Celsius,Anders Celsius determined the dependence of the boiling of water with atmospheric pressure.
+140,What is named after him?,The Celsius crater on the Moon,"The Celsius crater, the Tesla crater, the minor planet 2244 Tesla, the Teddy bear, the comic strip Mallard Fillmore, and Tesla Motors are named after him."
+141,When did he publish a collection?,1733,"He published a collection in 1841 with ""Fisica dei corpi ponderabili, ossia Trattato della costituzione materiale de' corpi."""
+142,Is it true that he published a collection in 1738?,No,"No, it is not true that he published a collection in 1738. The evidence shows that ""The Chronology of Ancient Kingdoms Amended"" was published in 1728, and ""Observations Upon the Prophecies of Daniel and the Apocalypse of St. John"" was published in 1733. There is no mention of a publication in 1738."
+143,Is it true that thermometer had 100 for the freezing point?,Yes,"Yes, it is true that thermometer had 100 for the freezing point."
+144,Was Celsius born in Uppsala in Sweden?,Yes,"Yes, Celsius was born in Uppsala in Sweden."
+145,"Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?",Yes,"Yes, Anders Celsius was a Swedish astronomer."
+146,Is The Celsius crater on the Moon named after him?,Yes,"Yes, The Celsius crater on the Moon is named after him."
+147,Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?,Anders Celsius,Anders Celsius.
+148,The Celsius crater on the Moon is what?,named after him,The Celsius crater on the Moon is named after Anders Celsius.
+149,Is the Celsius crater on the Moon named after him ?,Yes,"Yes, the Celsius crater on the Moon is named after him."
+150,Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?,Yes it had,"Yes, based on the context provided, his thermometer had 100 for the freezing point of water and 0 for the boiling point."
+151,Was Celsius born in Uppsala in Sweden ?,Yes,"Yes, Celsius was born in Uppsala in Sweden."
+153,Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?,Yes he did,"Yes, he did determine the dependence of the boiling of water with atmospheric pressure in excellent agreement with modern data."
+154,What happened from 1730 to 1744?,He was professor of astronomy at Uppsala University,"From 1730 to 1744, there is no specific event mentioned in the provided context."
+155,What happened in 1745?,The scale was reversed,"In 1745, Count Alessandro Volta was born."
+156,Are beetles insects?,Yes,"Yes, beetles are insects. They are placed in the order Coleoptera and constitute a large portion of all known life-forms."
+158,Can beetles be found in polar regions?,No,"No, beetles are not known to occur in the polar regions."
+160,Do beetles antennae function primarily as organs of smell?,Yes,"Yes, beetles' antennae function primarily as organs of smell."
+162,What are the three sections of a beetle?,"the head, the thorax, and the abdomen","The three sections of a beetle are the head, the thorax, and the abdomen."
+164,Which defense mechanism uses colour or shape to deceive potential enemies?,mimicry,Mimicry.
+166,Which type of beetle is a pest of potato plants?,Colorado potato beetle,"The Colorado potato beetle, Leptinotarsa decemlineata, is a pest of potato plants."
+168,How can beetle larvae be differentiated from other insect larvae?,"their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body","Beetle larvae can be differentiated from other insect larvae by their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body."
+170,What do beetles eat?,"Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.","Beetles eat plants, fungi, animal and plant debris, other invertebrates, and decaying organic matter. Some feed on specific plants, while others are carnivorous, eating small prey like arthropods, earthworms, and snails. They also consume honeydew, nectar, and sometimes other insects."
+172,What are the similarities between beetles and grasshoppers?,mouthparts,"Both beetles and grasshoppers have mouthparts with mandibles. Beetles have chewing mouthparts, similar to grasshoppers."
+174,Are certain species of beetles considered pests?,Yes,"Yes, certain species of beetles are considered pests. Examples include the Colorado potato beetle, boll weevil, red flour beetle, and mungbean beetle."
+176,Is a beetle's general anatomy uniform?,Yes,"Yes, the general anatomy of beetles is uniform."
+178,Are beetles endopterygotes?,yes,"Yes, beetles are endopterygotes."
+180,How many species of beetles are there?,"350,000","350,000 species."
+182,When are sperm cells transferred to the female?,during pairing,"Sperm cells are transferred to the female during pairing, which occurs when the alpha female is in estrus. This happens once per year, during which the male and female mate, and the male transfers sperm to the female."
+184,What is the study of beetles called?,coleopterology,The study of beetles is called coleopterology.
+186,"Is it possible that there are more than 350,000 species of beetles?",yes,"Yes, it is possible that there are more than 350,000 species of beetles. The context states that estimates put the total number of species, described and undescribed, at between 5 and 8 million."
+188,Is the Adephaga suborder larger than the Polyphaga suborder?,no,"No, the Adephaga suborder is not larger than the Polyphaga suborder. Polyphaga is the largest suborder with over 300,000 described species, while Adephaga contains about 10 families."
+190,Do carrion beetles eat dung?,no,"Yes, carrion beetles eat dung. The context states that carrion beetles (family Silphidae) are necrophagous, meaning they eat dead animals. However, it also mentions that some beetles found in dung and carrion are predatory, such as clown beetles, which prey on larvae of coprophagous and necrophagous insects. Therefore, while carrion beetles primarily eat dead animals, they may also be found in dung."
+192,What are prey of various animals including birds and mammals?,Beetles.,Beetles are prey of various animals including birds and mammals.
+193,What was given by Aristotle for the hardened shield like forewings?,"The name ""Coleoptera"".","The hardened shield-like forewings were given the name ""Coleoptera"" by Aristotle."
+194,Who or what vary greatly in form within the coleoptera?,Antennae.,Antennae vary greatly in form within the Coleoptera.
+195,Are many beetles territorial?,Yes.,The provided context does not mention anything about beetles being territorial.
+196,Are beetles endopterygotes with complete metamorphosis?,Yes.,Yes.
+197,Oxygen is what?,One kind of gas obtained via a tracheal system.,Oxygen is a gas needed for respiration.
+198,Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?,Yes.,"Yes, there is a thriving industry in the collection of beetle specimens for amateur and professional collectors."
+199,Have coleopterists formed organisations to facilitate the study of beetles ?,Yes.,"Yes, coleopterists have formed organisations to facilitate the study of beetles."
+200,"Is the study of beetles called coleopterology , and its practitioners are coleopterists ?",Yes.,"Yes, the study of beetles is called coleopterology, and its practitioners are coleopterists."
+201,May a single female lay from several dozen to several thousand eggs during her lifetime ?,Yes.,"Yes, a single female may lay from several dozen to several thousand eggs during her lifetime."
+202,Can beetles be found in almost all habitats?,Yes.,"Yes, beetles can be found in almost all habitats, except the sea and polar regions."
+203,What happened on plants and fungi?,They are food to beetles.,Beetles feed on plants and fungi.
+204,Was Calvin Coolidge the twenty-ninth vice president?,no,"Yes, Calvin Coolidge was the twenty-ninth Vice President."
+206,"Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?",yes,"Yes, Calvin Coolidge was born in Plymouth, Windsor County, Vermont."
+208,Did Coolidge graduate from Black River Academy?,yes,"Yes, Coolidge graduated from Black River Academy."
+210,When did he drop John from his name?,upon graduating from college,"The question cannot be answered from the given context. There is no information provided about someone dropping the name ""John"" from their name."
+212,When did Coolidge meet and marry Grace Anna Goodhue?,1905,In 1905.
+214,What period of rapid economic growth did the United States experience during Coolidge's presidency?,the Roaring Twenties,"The period of rapid economic growth during Coolidge's presidency was the ""Roaring Twenties."""
+216,What did Coolidge do after graduating from Amherst?,"Coolidge moved to Northampton, MassachuS08_setts","After graduating from Amherst, Coolidge moved to Northampton, Massachusetts to take up the practice of law."
+218,Of what state was Coolidge governor?,MassachuS08_setts,Massachusetts.
+219,Who appointed Harlan Fiske Stone to the Supreme Court?,Coolidge,Coolidge appointed Harlan Fiske Stone to the Supreme Court.
+221,Was Coolidge the thirteenth President of the United States?,No,"No, Coolidge was the thirty-third President of the United States, not the thirteenth."
+223,Was Calvin Coolidge Republican?,Yes,"Yes, Calvin Coolidge was Republican. He was elected as the twenty-ninth Vice President in 1920 and became President upon the death of Warren G. Harding. He was a small-government conservative and ran as a Republican."
+225,Was Calvin Coolidge a governor of MassachuS08_setts?,Yes,"Yes, Calvin Coolidge was a governor of Massachusetts."
+227,When was Coolidge born?,July 4 1872,"July 4, 1872."
+229,Where did Coolidge's grandfather had government offices?,Plymouth,Plymouth.
+231,Which state were Coolidge born in?,"Plymouth, Windsor County, Vermont",Vermont.
+233,Is Calvin Jr. older than John Coolidge?,No,"The text mentions that John Calvin Coolidge Jr. was born on July 4, 1872, and that Calvin Jr. (his son) died. However, it does not provide information about John Coolidge's age relative to John Calvin Coolidge Jr. Therefore, the question cannot be answered based on the given context."
+235,Did Coolidge get in Amherst College?,Yes,"No, Coolidge did not get into Amherst College. He failed his initial entrance exam."
+237,What caused Calvin Jr.'s death?,heart attack,Calvin Jr. died from an infected blister on his foot that developed after playing tennis on the White House courts.
+239,Was John Calvin Coolidge Jr. was born in Las Vegas?,No,"No, John Calvin Coolidge Jr. was born in Plymouth, Vermont, not Las Vegas."
+241,Was Coolidge opposed in the Republican nomination for Governor of MassachuS08_setts in 1918?,Yes,"No, Coolidge was not opposed in the Republican nomination for Governor of Massachusetts in 1918. The evidence states he was unopposed."
+243,Did Coolidge meet and marry Grace Anna Goodhue?,Yes,"Yes, Coolidge met and married Grace Anna Goodhue in 1905."
+245,What year did Coolidge open his own law office?,1898,1898.
+247,What fraternity was Coolidge a member of?,Phi Gamma Delta,Phi Gamma Delta.
+249,In 1905 Coolidge met and married whom?,Grace Anna Goodhue,Grace Anna Goodhue.
+251,Why did Coolidge not attend law school?,It was too expensive,Coolidge did not attend law school because he chose to apprentice with a local firm instead of paying for law school.
+253,Have there been other US presidents that have visited Cuba?,No,"Yes, Coolidge was the only sitting U.S. president to visit Cuba. No other U.S. presidents are mentioned as having visited Cuba in the provided context."
+255,What years were Coolidge's two sons born in?,1906 and 1908,The context provided does not mention the birth years of Coolidge's two sons.
+281,Did France cede nearly all of its colonies in Europe in 1763?,Yes.,"No. France ceded nearly all of its colonies in North America in 1763, not in Europe."
+284,Is Canada a member of the OECD?,Yes.,"Yes, Canada is a member of the OECD."
+287,Is Canada's official language Zulu?,No.,No. Canada's official languages are English and French.
+290,What is one significant non-official language?,Chinese.,Punjabi is a significant non-official language.
+293,"In addition to Port Royal, where else did Samuel de Champlain establish a S08_settlement?",Quebec City,Quebec City.
+295,What was the Consitution Act formerly called?,The British North America Act.,The Constitution Act is not mentioned in the provided context.
+298,Which countries established colonies in Canada?,France and Britain.,The English and French established colonies in Canada.
+301,How has Canada helped UN peacekeeping efforts?,"During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989","Canada has helped UN peacekeeping efforts by proposing the UN Peacekeeping Force during the Suez Crisis, participating in 50 peacekeeping missions, deploying troops in Afghanistan, and sending the Disaster Assistance Response Team (DART) for relief efforts."
+304,What percentage of the population don't speak English or French at home?,28%,"The question refers to Canada, as the context discusses English and French as mother tongues and languages spoken at home. Based on the evidence, 98.5% of Canadians speak English or French at home. Therefore, the percentage of the population that does not speak English or French at home is 1.5%."
+307,Is Canada bilingual?,Yes.,"Yes, Canada is bilingual."
+309,Did Canadian soldiers win the Battle of Vimy Ridge in 1917?,Yes,"Yes, Canadian soldiers won the Battle of Vimy Ridge in 1917."
+311,Is an official language of Canada German?,No.,"No, German is not an official language of Canada. The official languages are English and French."
+313,How many provinces and territories does Canada have?,A federation now comprising ten provinces and three territories,Canada has ten provinces and three territories.
+315,What is Canada's national unemployment rate?,"While as of October 2007, Canada's national unemployment rate of 5.9% is its lowest in 33 years. Provincial unemployment rates vary from a low of 3.6% in Alberta to a high of 14.6% in Newfoundland and Labrador. ","The national unemployment rate in Canada is 5.9%, as of October 2007, which is the lowest in 33 years."
+317,Where is the most densely populated part of Canada?,The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.,The most densely populated part of Canada is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.
+319,What is the largest country in the world?,"Canada is the second largest country in the world, after Russia, and largest on the continent.",The largest country in the world is Russia.
+321,What is the largest religious group in Canada?,"According to 2001 census, 77.1% of Canadians identified as being Christians; of this, Catholics make up the largest group (43.6% of Canadians). The largest Protestant denomination is the United Church of Canada; about 16.5% of Canadians declare no religious affiliation, and the remaining 6.3% were affiliated with religions other than Christianity, of which the largest is Islam numbering 1.9%, followed by Judaism: 1.1%. ","The largest religious group in Canada is Catholics, making up 43.6% of Canadians."
+323,When did Canada have one of the largest armed forces in the world?,1944.,"During World War II, Canada finished the war with one of the largest armed forces in the world."
+325,What have been inhabited for millennia by aboriginal peoples?,The lands,The lands have been inhabited for millennia by aboriginal peoples.
+326,European books and maps began referring to this region as Canada in what year?,1545,1545.
+327,What was Canada's most important industry until the 1800s?,The fur trade,The fur trade was Canada's most important industry until the 1800s.
+328,Is it true that it angered many residents of the thirteen colonies?,yes,"Yes, it is true that it angered many residents of the Thirteen Colonies. The Quebec Act of 1774 angered many residents of the Thirteen Colonies, helping to fuel the American Revolution."
+329,How do cuba and declining participation relate?,Canada maintains full relations with both.,"The provided context does not mention Cuba in relation to declining participation. Therefore, the relationship between Cuba and declining participation cannot be determined from the given information."
+330,Is it true that provinces have a large degree of autonomy?,yes,"Yes, it is true that provinces have a large degree of autonomy from the federal government, as stated in the context."
+331,What did Canada adopt in 1965?,The Maple Leaf Flag,Canada adopted its current Maple Leaf Flag in 1965.
+332,What arrived in Britain?,The first Canadian Army units in WW II,The evidence does not mention what arrived in Britain.
+333,Are Canada 's two official languages English and French ?,yes,Yes.
+334,Are Canada 's official national sports ice hockey ( winter ) and lacrosse ( summer ) ?,yes,"Yes, according to the context, Canada's official national sports are ice hockey (winter) and lacrosse (summer)."
+335,Is Canada a geographically vast and ethnically diverse country ?,yes,"Yes, Canada is a geographically vast and ethnically diverse country."
+336,Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht    (: ; ?,no!,"No, Mainland Nova Scotia did come under British rule with the Treaty of Utrecht (1713)."
+337,"Did Cartier not use the word ` Canada ' to refer to not only that village , but the entire area subject to Donnacona , Chief at Stadacona ?",yes,"Yes. Cartier used the word 'Canada' to refer to not only that village, but the entire area subject to Donnacona, Chief at Stadacona."
+338,Did continental European immigrants not S08_settle the prairies ?,no,"Yes, continental European immigrants did settle the prairies."
+339,Is it the world 's second largest country by total area?,yes,"Yes, Canada is the world's second largest country by total area."
+340,What happened in 1867?,"Canada was formed as a federal, semi-autonomous polity","In 1867, the British North American colonies united through Confederation to form Canada as a federal, semi-autonomous polity."
+341,Are ducks in the Arctic Northern Hemisphere migratory?,Some are,Yes.
+343,Is a drake a male?,Yes,"Yes, a drake is a male."
+345,"Do all ducks ""quack""?",No,"No, not all ducks ""quack"". Many ducks, like scaup, make different sounds."
+347,What is the name of a specialized species of duck adapted to catch large fish?,the smew,The name of a specialized species of duck adapted to catch large fish is the merganser.
+348,What animal attracts the most humor and silliness?,The duck,Duck.
+350,What is an economic use of a duck?,Meat,"An economic use of a duck is farming them for meat, eggs, and feathers."
+352,Who is Daffy Duck?,A silly cartoon character,Daffy Duck is a silly cartoon character.
+354,What makes it more difficult for a diving duck to fly?,They are heavier,"The diving ducks are heavier than dabbling ducks, which makes it more difficult for them to take off and fly."
+356,What are the reasons for hunting wild ducks?,"Meat, eggs, and feathers",The reasons for hunting wild ducks are food and sport.
+357,Do ducks forage underwater?,yes,"Yes, diving ducks and sea ducks forage underwater."
+361,Is foie gras often made from ducks?,yes,"Yes, foie gras is often made from ducks."
+363,What economic uses to ducks have?,"They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.","Ducks have economic uses including farming for meat, eggs, and feathers (down)."
+365,What kind of ducks feed on land?,Dabbling ducks,Dabbling ducks feed on land.
+367,What unrelated water birds are ducks sometimes confused with?,"loons or divers, grebes, gallinules, and coots","Loons, divers, grebes, gallinules, and coots."
+369,What does the word duck mean?,It is the common name for a number of species in the Anatidae family of birds.,"The word ""duck"" means the bird, derived from the verb ""to duck"" meaning ""to bend down low"" or ""to dive."" It is also used metaphorically, such as ""a sitting duck"" meaning an easy target."
+371,What are some common predators of ducks?,"Pike, crocodilians, herons, hawks and eagles.","Common predators of ducks include pike, crocodilians, herons, foxes, hawks, eagles, muskies, and pikes. Adult ducks may also be preyed upon by humans and the Peregrine Falcon."
+373,How does a Mallard's tongue work?,"It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat",The Mallard's tongue is a flat plate with a short liftable flap at the back end that has about 18 short spikes. This flap helps push prey and food down the throat.
+375,Are diving ducks heavier tha dabbling ducks?,Yes,"Yes, diving ducks are heavier than dabbling ducks."
+377,Are adult ducks fast fliers?,Yes,"Yes, adult ducks are fast fliers."
+379,Are ducks an accepted presence in some populated areas?,Yes,"Yes, ducks are an accepted presence in some populated areas."
+381,What types of unrelated water birds with similar forms are ducks sometimes confused with?,"loons or divers, grebes, gallinules, and coots","Ducks are sometimes confused with loons or divers, grebes, gallinules, and coots."
+383,Why are ducklings particularly vulnerable?,Their inability to fly.,"Ducklings are vulnerable because they cannot fly, making them easy prey for predators like birds, fish, and mammals."
+385,What are some economic uses for duck?,"Meat,eggs,feathers","Ducks are farmed for their meat, eggs, and feathers. They are also used in zoos and for hunting."
+387,What allows a duck to filter water out of the side of their beaks and keep food inside?,Tiny rows of plates called lamellae,The tiny rows of plates called lamellae allow a duck to filter water out of the side of their beaks and keep food inside.
+389,What expression is part of a conceptual framework for testing computer systems?,Quacks like a duck,"The expression ""if a bird quacks and looks like a duck, it's a duck"" is part of a conceptual framework for testing computer systems."
+391,"Where did the expression ""a sitting duck"" come from?","In many areas, wild duckof various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.","The expression ""a sitting duck"" came from the practice of hunting wild ducks, as ducks were easy targets when sitting."
+393,Is Egypt bordered by the Gaza Strip?,yes,"Yes, Egypt is bordered by the Gaza Strip."
+395,Is Egypt the most populated country in Africa?,no,"Yes, Egypt is the most populated country in Africa."
+397,Does Egypt have political influence in the Middle East?,yes,"Yes, Egypt has political influence in the Middle East. It is considered a major influence amongst other Arab states and has historically played a role as a mediator in regional disputes. However, its influence has recently been challenged by Saudi Arabia and other Gulf States."
+399,When was the Six Day War?,1967,The Six Day War was in 1967.
+401,What religions has Egypt outlawed?,"All but Christianity, Islam, and Judaism","Egypt has outlawed all religions and belief except Islam, Christianity, and Judaism."
+403,What is the poulation of Egypt?,more than 78 million,The population of Egypt is estimated at 78 million.
+405,Why does most of Egypt's population live near the Nile?,"the only arable agricultural land is found there,","Most of Egypt's population lives near the Nile because the Nile provides arable land for agriculture, which is essential for sustenance. The Nile's fertile banks support farming, making it a crucial resource for the population. The rest of Egypt, especially the Sahara Desert, is too arid to support large populations."
+407,Are there a large number of Jews living in Egypt today?,no,"Yes, there are a large number of Jews living in Egypt today."
+409,During what period was Akhenaten a Pharaoh?,The New Kingdom (c.1550&#8722;1070 BC) ,"Akhenaten was a Pharaoh during the New Kingdom, specifically during the 18th Dynasty. The text mentions him as one of the most well-known Pharaohs of this period, which lasted from approximately 1550 BC to 1070 BC. However, the exact dates of Akhenaten's reign are not provided in the context."
+411,Is Egypt in Asia?,No.,"No, Egypt is in North Africa, not Asia."
+412,Does Egypt receive the least rainfall in the world?,Yes.,"Yes, based on the context provided, Egypt receives the least rainfall in the world."
+414,Does Egypt's foreign policy operates along moderate lines?,Yes.,"Yes, Egypt's foreign policy operates along moderate lines."
+416,Since when has Egypt been a republic?,June 18 1953.,"Egypt has been a republic since June 18, 1953."
+418,When were the Great Sphinx and the Pyramids of Giza built?,During the Old Kingdom.,"The Great Sphinx and the Pyramids of Giza were built during the Old Kingdom, approximately 2700–2200 BC."
+420,What countries border Egypt?,"Libya, Sudan, the Gaza Strip and Israel.","Libya, Sudan, Gaza Strip, Israel, and Cyprus."
+422,What is the estimated population of Egypt?,More than 78 million.,The estimated population of Egypt is 78 million.
+424,Does snow fall in Egypt?,Yes.,"Yes, snow falls in certain areas of Egypt, such as Sinai's mountains and some north coastal cities like Damietta, Baltim, Sidi Barrany, and rarely in Alexandria."
+426,When did organized agriculture appear in the Nile Valley?,6000 BC.,Organized agriculture appeared in the Nile Valley by about 6000 BC.
+428,Are elephants the largest land animals alive today?,yes,"Yes, according to the context, elephants are the largest land animals alive today."
+430,Can an elephant kill a rhinoceros?,yes,"Yes, elephants can kill rhinoceroses. The evidence states that elephants are capable of crushing and killing any other land animal, including rhinoceroses. Additionally, it mentions that numerous cases of elephant goring and killing of rhinoceroses in national parks in Africa have been documented and attributed to musth in young male elephants."
+432,Are elephants good swimmers?,yes,"Yes, elephants are good swimmers. They can swim for up to 6 hours and 50 km. Their trunks act as snorkels while swimming."
+434,How many living species of African Elephants are there?,2,"The context states there are two (or three) living species of African elephants. It also mentions three living species: the African Bush Elephant, the African Forest Elephant, and the Asian Elephant. However, the question specifically asks about African elephants, so the answer is two (or three) species."
+436,How long may elephants live?,70 years,"Elephants may live as long as 70 years, sometimes longer."
+438,Why does the phrase 'elephants never forget' have no metaphorical meaning?,it refers literally to elephants supposedly having an excellent memory,"The phrase ""elephants never forget"" has no metaphorical meaning because it refers literally to elephants having an excellent memory."
+440,How many living species of Asian Elephants are there?,1,"The text states that the world population of Asian elephants is estimated to be around 60,000, with between 38,000 and 53,000 wild elephants and between 14,500 and 15,300 domesticated elephants in Asia. Therefore, the number of living species of Asian elephants is not directly provided, but the population is estimated."
+442,How much do elephants weight at birth?,120 kilograms,"At birth, an elephant calf typically weighs about 120 kilograms (265 lb) or 113 kg (250 lb)."
+444,What did Aristotle say about elephants?,the beast which pasS08_seth all others in wit and mind,"Aristotle said the elephant was ""the beast which passeth all others in wit and mind."""
+446,Are elephant populations in West Africa generally small and fragmented?,yes,"Yes, based on the context provided, elephant populations in West Africa are generally small and fragmented."
+448,Is the Asian elephant larger than the African?,no,"Yes, the Asian elephant is smaller than the African."
+450,Is an elephant's skin tough?,yes,"Yes, an elephant's skin is tough. It measures about 2.5 centimetres (1 in) thick around most parts of its body."
+452,How do elephants communicate over long distances?,by producing and receiving low frequency sound,Elephants communicate over long distances using low-frequency sounds (infrasound) that travel through the ground. They detect these vibrations with their sensitive feet and trunks. They also use their trunks to feel vibrations and listen to sounds.
+454,When do African elephants lie down?,when they are sick or wounded,African elephants rarely lie down unless they are sick or wounded.
+455,How long is the elephant's gestation period?,22 months,The elephant's gestation period is 22 months.
+457,How many species of African elephants have been proposed?,three,Three species of African elephants have been proposed.
+459,What are the elephant's ears important for?,temperature regulation,The elephant's ears are important for temperature regulation.
+461,What land animal has the largest brain?,elephant,The elephant has the largest brain among land animals.
+463,Are elephants mammals?,yes,"Yes, elephants are mammals."
+465,Have elephants been used as working animals?,yes,"Yes, elephants have been used as working animals."
+467,Do they prefer forested areas?,Yes,"The context provided does not directly address whether a specific group prefers forested areas. It discusses forest coverage, conservation, and the impact of deforestation, but does not mention preferences of any particular entity or species."
+469,What is the world population of Asian elephants?,60000,"The world population of Asian elephants is estimated to be between 38,000 and 53,000 wild elephants and between 14,500 and 15,300 domesticated elephants, totaling around 60,000."
+471,What part of an elephant is very important for temperature regulation?,Ears,The large flapping ears are very important for temperature regulation.
+473,Where was the largest elephant ever recorded shot?,Angola,Angola.
+475,Is an Asian elephant smaller than an African elephant?,yes,"Yes, an Asian elephant is smaller than an African elephant."
+478,What land animal is larger than an elephant?,"None, the elephant is the largest land animal.",The text states that elephants are the largest land animals alive today. No land animal is mentioned as being larger than an elephant.
+479,Has tusklessness become a rare abnormality?,No,"Yes, tusklessness has become a widespread hereditary trait, no longer a rare abnormality."
+481,Were the treaties signed in 1947 and 1948 with the Ukraine?,no,"No, the treaties signed in 1947 and 1948 were with the Soviet Union, not Ukraine."
+483,Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?,yes,"Yes, Finnish is a member of the Baltic-Finnic subgroup of the Uralic languages."
+485,Is the most read newspaper in Finland Taloussanomat?,no,"Yes, the most read newspaper in Finland is Helsingin Sanomat, not Taloussanomat."
+487,Which Russian army general conquered Finland in 1809?,Alexander I,Alexander I of Russia.
+489,What is the life expectancy for men in Finland?,75 years,75 years.
+491,"In what year were the ""Games of the XV Olympiad"" held?",1952,1952
+493,What body of water lies to the south of Finland?,the Gulf of Finland,The body of water to the south of Finland is the Gulf of Finland.
+495,Name an animal that is growing in number due to recent conservation efforts,"Golden Eagle, Brown Bear, or Eurasian Lynx (Change imperative to interrogative)",Golden Eagle.
+497,"Today, are there more cell phone subscriptions than people in Finland?",yes,"Yes, based on the evidence, as of the end of June 2007, there were 5.78 million cellular phone subscriptions in Finland, which was 109 percent of the population. This indicates that there were more cell phone subscriptions than people in Finland at that time. However, the current year is not specified in the context, so it is not possible to confirm if this situation still holds today."
+499,Is Matti Vanhanen the Prime Minister of Finland?,yes,"Yes, Matti Vanhanen is the Prime Minister of Finland."
+501,Is the capital city Oslo?,no,"Yes, the capital city is Helsinki."
+503,Does it have a border with Norway?,yes,"Yes, Finland has a border with Norway."
+505,What is the life expectancy for men?,75 years,The life expectancy for men is 75 years.
+507,What is the biggest city in Finland?,Greater Helsinki,The biggest city in Finland is Helsinki.
+509,Who is the most popular rock group in Finland?,CMX,"The most popular rock group in Finland is not explicitly stated, but CMX is noted as one of the most domestically popular rock groups. However, bands like Lordi, HIM, and The Rasmus are also highlighted for their success and popularity."
+511,What is Finland's economy like?,"a highly industrialised, free-market economy","Finland has a highly industrialized, free-market economy with a per capita output similar to Western countries. The largest sector is services (65.7%), followed by manufacturing (31.4%). Key industries include electronics, machinery, forest industry, and chemicals. Tourism is growing and significant. The economy was transformed post-war into a technologically advanced market economy with a strong social welfare system. Finland is a democratic welfare state with low corruption."
+512,Where is Finland located?,Northern Europe,"Finland is located in Northern Europe. It has borders with Sweden to the west, Russia to the east, and Norway to the north, while Estonia lies to its south across the Gulf of Finland."
+514,What is the weather like in summer?,relatively warm,"The weather in summer is warm, with temperatures averaging between 25 to 30 °C (75 to 85 °F) between the coasts and occasionally exceeding 40 °C (104 °F) in some interior locations. There can be frequent thunderstorms in the summer."
+516,Does salmon remain the favorite of fly rod enthusiasts?,Yes,"Yes, salmon remains the favorite of fly rod enthusiasts."
+518,Are there cathedrals scattered all across Finland?,Yes,"Yes, there are cathedrals scattered all across Finland."
+520,"According to Reader's Digest, is Finland best for living?",Yes,"Yes, according to Reader's Digest, Finland was rated the best country to live in in a 2007 study."
+522,When did the first verifiable written documents appear?,Twelfth Century,The first verifiable written documents appeared in the twelfth century.
+524,What is the capital city?,Helsinki,Cairo
+526,What is the most extensively celebrated holiday?,Christmas,The most extensively celebrated holiday is Christmas.
+528,Does a large proportion of the population speak Swedish as its mother tongue?,No,"Yes, a large proportion of the population does not speak Swedish as its mother tongue. The context states that most Finns speak Finnish as their mother tongue, with 92% of the population speaking Finnish. Swedish is the second official language and is spoken by 5.5% of the population as a minority language."
+529,Do women live longer than men?,Yes,"Yes, women live longer than men."
+532,What is a country with which Finland is involved in an international conflict?,Finland is not involved in international conflicts or border disputes. ,Finland is not involved in any international conflicts according to the provided context.
+557,Was Ford a member of the House of Representatives?,Yes,"Yes, Ford was a member of the House of Representatives."
+559,For how long was Ford a member of the House of Representatives?,Over eight years.,Ford was a member of the House of Representatives for twenty-four years.
+561,Was Gerald Ford a member of Delta Kappa Epsilon?,Yes,"Yes, Gerald Ford was a member of Delta Kappa Epsilon."
+563,"Did ford get an award called ""Congressman's congressman""?",Yes,"Yes, Ford received an award called ""Congressman's Congressman"" in 1961."
+565,Did ford attend the University of Michigan?,Yes,"Yes, Ford attended the University of Michigan as an undergraduate."
+567,What positions Ford played in the school football team?,Center and linebacker,Ford played center and linebacker for the school's football team.
+569,What did Ford say about his biological father?,He was abusive and had a history of hitting his mother.,Ford said his biological father was abusive and had a history of hitting his mother.
+571,Who did Ford nominate for Vice President?,Bob Dole,Ford nominated Nelson Rockefeller for Vice President.
+573,Was Ford active about Vietnamese affairs?,No,"Yes, Ford was active about Vietnamese affairs. He ordered the final withdrawal of U.S. civilians from Vietnam in 'Operation Frequent Wind' and faced a foreign policy crisis with the Mayaguez Incident. However, he did not intervene in Vietnamese affairs."
+574,hard,hard,the answer cannot be determined from the given context.
+576,Had Ford's wife married before?,Yes,"Yes, Ford's wife, Betty Ford, had previously been married. She was divorced from William G. Warren before marrying Ford."
+578,Is Ford related with the assassination of John F. Kennedy?,Yes,"Yes, Ford was related with the assassination of John F. Kennedy as he was appointed to the Warren Commission to investigate the assassination."
+579,Was Gerald Ford the 38th President of the United States?,yes,"Yes, Gerald Ford was the 38th President of the United States."
+581,Did Gerald Ford serve as the Republican Minority Leader of the House of Representatives?,yes,"Yes, Gerald Ford served as the Republican Minority Leader of the House of Representatives from 1965 to 1973."
+583,Was Ford an Eagle Scout?,yes,"Yes, Ford was an Eagle Scout."
+585,What district was Ford elected from?,Michigan's 5th congressional district,Michigan's 5th congressional district.
+587,How many Eagle Scouts were involved in Ford's funeral procession?,400,About 400 Eagle Scouts were involved in Ford's funeral procession.
+589,Which future Heisman Trophy winner did Ford tackle?,Jay Berwanger,Jay Berwanger.
+591,Has another US President been an Eagle Scout?,no,"Yes, Gerald Ford was an Eagle Scout and he is the only US president who was an Eagle Scout."
+593,Did Ford need to do extra work to pay for college?,yes,"No, Ford did not need to do extra work to pay for college. He washed dishes at his fraternity house to earn money for college expenses."
+595,Have more than five Presidents lived past the age of 90?,no,"No. Based on the evidence, only three Presidents (John Adams, Herbert Hoover, and Gerald Ford) lived past the age of 90."
+597,How do kwajalein and eniwetok relate?,The Monterey supported landings at both locations.,"The provided context does not mention kwajalein or eniwetok, so their relationship cannot be determined from the given information."
+598,"What did Ford receive on April 13, 1942?",Ford received a commission as ensign in the US Naval Reserve.,"Ford received a commission as ensign in the U.S. Naval Reserve on April 13, 1942."
+599,Was Ford released from the hospital?,Yes.,"Yes, Ford was released from the hospital on August 28, 2006."
+600,"Was Ford interred at his Presidential Museum in Grand Rapids, Michigan?",Yes.,"Yes, according to the context, Ford was interred at his Presidential Museum in Grand Rapids, Michigan."
+601,Is Ford one of only four former Presidents to live to 90 or more years of age ?,Yes.,"Yes, Ford is one of only four former Presidents to live to 90 or more years of age."
+602,Was Ford the last surviving member of the Warren Commission ?,Yes.,"Yes, based on the context provided, Ford was the last surviving member of the Warren Commission."
+603,"Did Grand Rapids supporters not urge him to take on Bartel J. Jonkman , the incumbent Republican congressman ?",No.,"No, Grand Rapids supporters did urge him to take on Bartel J. Jonkman, the incumbent Republican congressman."
+604,Did they not claim Ford 's pardon was quid pro quo in exchange for Nixon 's resignation ?,They did claim Ford's pardon was quid pro quo.,"Yes, the context states that critics claimed Ford's pardon was a quid pro quo in exchange for Nixon's resignation, which elevated Ford to the presidency."
+605,Does Ghana have twice the per capita output of the poorer countries in West Africa?,yes,"Yes, according to the context, Ghana has twice the per capita output of the poorer countries in West Africa."
+607,Is English Ghana's official language?,yes,"Yes, English is Ghana's official language."
+609,Did the Dutch build the Elmina Castle?,No,"No, the Dutch did not build Elmina Castle. The Portuguese built it in 1482."
+611,When did Ghana achieve independence from the United Kingdom?,1957,Ghana achieved independence from the United Kingdom in 1957.
+613,How many regions is Ghana divided into?,10,Ghana is divided into 10 regions.
+615,Who is the head of state of Ghana?,President John Agyekum Kofuor,President John Agyekum Kufuor is the head of state of Ghana.
+617,What is the dominant religion in Ghana?,Christian,"The dominant religion in Ghana is Christianity, with 63% of the population identifying with it."
+619,What are the two subfamilies of the Native Ghanaian languages?,Kwa and Gur,The two subfamilies are Kwa and Gur.
+621,What is the weather like at Lake Volta?,Warm and comparatively dry,The context does not provide specific information about the weather at Lake Volta.
+623,Is Ghana in Asia?,no,"No, Ghana is not in Asia. It is in West Africa."
+625,Is English the official language?,yes,"Yes, English is an official language in Canada, Singapore, and Ghana."
+627,Is Ghana's head of state John Agyekum Kufuor?,yes,"Yes, according to the context, John Agyekum Kufuor is Ghana's head of state."
+629,What does the word Ghana mean?,warrior king,"The word ""Ghana"" means ""Warrior King."""
+631,Who was Kwame Nkrumah?,founder and first president,Kwame Nkrumah was the founder and first president of modern Ghana. He was an African anti-colonial leader and a proponent of Pan-Africanism. He played a key role in Ghana's independence from Britain in 1957. He also aimed to unite Africa and prevent neo-colonialism.
+633,Where is old Ghana in relation to present Ghana?,500 miles north,Old Ghana is 500 miles north of present Ghana.
+635,Who makes up Ghana's Parliament?,the New Patriotic Party and National Democratic Congress,Ghana's Parliament is unicameral and dominated by the New Patriotic Party and National Democratic Congress.
+637,What European countries established states in Ghana?,The UK,"The European countries that established states in Ghana were the Portuguese, British, and Scandinavian powers."
+663,Does the Gray Wolf share an ancestry with the domestic dog?,Yes,"Yes, the Gray Wolf shares an ancestry with the domestic dog."
+665,Do wolf pups tend to have darker fur than adults?,Yes,"Yes, wolf pups tend to have darker fur than adults."
+667,Do wolves leave their pack?,Yes,"Yes, wolves can leave their pack. They leave when they reach sexual maturity and seek mates and territories."
+669,What kinds of coats do wolves have?,bulky coats with two layers,"Wolves have bulky coats with two layers: a tough, water-repellent outer layer and a dense, water-resistant undercoat. Their coats vary in color, including gray, gray-brown, white, red, brown, and black, often blending. They have distinct winter and summer pelages that change in spring and autumn. Wolves also have bristled hairs and lack sweat glands on their paw pads."
+671,Where do wolves have scent glands?,Helping the woldf to effectively navigate over large expanses while concurrently keeping others informed of its whereabouts.,"Wolves have scent glands all over their bodies, including at the base of the tail, between toes, and in the eyes, genitalia, and skin."
+673,How much do wolves weigh?,typically varies between 32 and 62 kilograms,"The weight of wolves ranges from 32 to 62 kilograms (70 to 135 pounds), with females typically weighing about 20% less than males. Extreme specimens can weigh more than 77 kg (170 lb), and the heaviest recorded wild wolf was 80 kg (175 lb). The smallest wolves, the Arabian Wolf subspecies, may weigh as little as 10 kg (22 lb)."
+675,Why do wolves howl?,"Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances. Howling also helps to call pack members to a specific location. Howling can also serve as a declaration of territory, as shown in a dominant wolf&apos;s tendency to respond to a human imitation of a ""rival"" wolf in an area the wolf considers its own. ","Wolves howl for communal reasons to strengthen social bonds, communicate over long distances, keep in touch, call pack members to a location, declare territory, and warn rivals. They also use howling to signal the presence of a large pack, which can deter rival packs."
+677,What is surplus killing?,Surplus killing is defined as the killing of several prey animals too numerous to eat at one sitting.,"Surplus killing is the killing of multiple prey animals beyond what can be eaten at one time. It occurs when a predator continues to kill prey due to the stimuli of many unable to escape, even if they don't all need to be eaten."
+679,Are Gray Wolves native to North America?,Yes,"Yes, gray wolves are native to North America."
+681,Is the Gray Wolf a mammal?,Yes,"Yes, the Gray Wolf is a mammal."
+683,Are a wolf's teeth its main weapons?,Yes,"Yes, a wolf's teeth are its main weapons according to the context."
+685,Are wolves built for stamina?,Yes,"Yes, wolves are built for stamina."
+687,Where is the largest gray wolf population thought to be found?,Kazakhstan,Kazakhstan is thought to have the largest wolf population of any nation.
+689,To what genus does the gray wolf belong?,Canis,The gray wolf belongs to the genus Canis.
+691,When do wolves molt?,Late Spring or Early Summer,Wolves molt in late spring or early summer.
+693,Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?,A pack can only suppport one littler per year,"It is beneficial for alpha males and females to forcefully prevent other wolves from mating because a pack can only support one litter per year. This dominance behavior ensures that resources, time, and preference are given to the alpha pair's litter, increasing the survival chances of their pups."
+695,What type of tools do biologists use to capture wolves for tagging?,Darting and Foot hold traps.,Darting and foot hold traps are used to capture wolves for tagging.
+697,"Forward, erect ears and slightly bristle hackles are a sign of what in wolves?",Dominance,Dominance.
+699,Was Grover Cleveland born in New York?,no,"No, Grover Cleveland was not born in New York. He was born in Caldwell, New Jersey."
+701,Did Grover Cleveland win the 1884 election?,yes,"Yes, Grover Cleveland won the 1884 election."
+703,Did Grover Cleveland support women's suffrage?,No,"Yes, Grover Cleveland supported women's suffrage."
+705,Where was Grover Cleveland married?,In the White House,Grover Cleveland was married in the Blue Room in the White House.
+707,What did Cleveland die from?,A heart attack,Cleveland died in 1908 from a heart attack.
+709,How many years after Cleveland left office did the U.S. win the Spanish-American War?,One Year,"The U.S. won the Spanish-American War in 1898, one year after Cleveland left office. Cleveland left office in 1897, so the U.S. won the war 1 year after he left office."
+711,What did Cleveland's opponents say in 1884 to counter his innocent image?,That he had fathered an illegitimate child,Cleveland's opponents said he had fathered an illegitimate child while he was a lawyer in Buffalo.
+713,Who did Cleveland run against in 1884?,former Senator James G. Blaine of Maine,Cleveland ran against James G. Blaine in 1884.
+715,Why did Cleveland want to hide his cancer surgery from the public?,To avoid further market panic,Cleveland wanted to hide his cancer surgery from the public to avoid further market panic during the financial depression.
+717,Was Grover Cleveland the twenty-seventh president of the United States?,No.,"No, Grover Cleveland was the twenty-second and twenty-fourth president of the United States, not the twenty-seventh."
+719,Is Grover Cleveland honest?,Yes.,"Yes, Grover Cleveland is described as honest."
+721,Was Grover Cleveland married in the whitehouse?,Yes.,"Yes, Grover Cleveland was married in the White House."
+723,"When was he elected sheriff of Erire County, New York?",Yes.,1871.
+725,When did he die?,June 24 1908,"He died on March 8, 1874."
+727,Which election did Grover Cleveland win?,1884 and 1892 presidential elections,Grover Cleveland won the 1884 election.
+728,Who were Grover Cleveland's parents?,"Cleveland was born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal.",Grover Cleveland's parents were Reverend Richard Cleveland and Anne Neal.
+730,How many children did Grover Cleveland have?,5,Grover Cleveland had five children.
+732,Who lost control of his party to the agrarians and silverites in 1896?,Grover Cleveland,Grover Cleveland.
+733,Is it true that he sent in federal troops to chicago?,yes,"Yes, according to the context, Cleveland sent in federal troops to Chicago."
+734,"Was Cleveland born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal?",yes,"Yes, according to the context, Cleveland was born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal."
+735,"Was Grover Cleveland elected Sheriff of Erie County, New York?",yes,"Yes, Grover Cleveland was elected Sheriff of Erie County, New York in 1871."
+736,Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?,yes,"Yes, Cleveland's portrait was on the U.S. $1000 bill from 1928 to 1946."
+737,Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?,yes,"Yes, he is buried in the Princeton Cemetery of the Nassau Presbyterian Church."
+738,Did the Department of the Interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?,yes,Yes. The Department of the Interior charged that the rights of way for the land must be returned to the public because the railroads failed to extend their lines according to agreements.
+739,"Did the team , sedating Cleveland with nitrous oxide -LRB- laughing gas -RRB- , not remove his upper left jaw and portions of his hard palate ?",yes,"Yes, the team did remove Cleveland's upper left jaw and portions of his hard palate."
+740,He became chief engineer in the Department of Bridges and Highways in what year?,in 1894,1894.
+741,What led Becquerel to investigate the spontaneous emission of nuclear radiation?,phographic plates being fully exposed,Becquerel investigated the spontaneous emission of nuclear radiation because he found that photographic plates were fully exposed without the need for sunlight.
+742,Is it true that he married louise désirée lorieux in 1890?,yes,"Yes, it is true that he married Louise Désirée Lorieux in 1890."
+743,Is it true that he shared the nobel prize in physics?,yes,"Yes, he shared the Nobel Prize in Physics in 1903 with Pierre and Marie Curie."
+744,When did he marry louise désirée lorieux?,1890,He married Louise Désirée Lorieux in 1890.
+745,Was Becquerel elected Permanent Secretary of the Académie des Sciences?,yes,"Yes, Becquerel was elected Permanent Secretary of the Académie des Sciences in 1908."
+746,"Was Becquerel born in Paris into a family which, including he and his son Jean, produced four generations of scientists?",yes,"Yes, Becquerel was born in Paris into a family which, including he and his son Jean, produced four generations of scientists."
+747,Who won the 1903 Nobel Prize in Physics for discovering radioactivity ?,Henri Becquerel,Antoine Henri Becquerel won the 1903 Nobel Prize in Physics for discovering radioactivity.
+748,Did he not die at the age of 55 in Le Croisic ?,Yes he died at the age of 55,"No, he died at the age of 55 in Le Croisic."
+749,Did one places between the phosphorescent substance and the paper a piece of money or a metal screen not pierce with a cut-out design ?,yes,The context states that a piece of money or a metal screen not pierced with a cut-out design was placed between the phosphorescent substance and the paper.
+750,What happened in 1896?, Becquerel accidentally discovered radioactivity.,"In 1896, New York City Police Commissioner was a position held that year. The context also mentions the election of 1896, but no specific event is detailed beyond that."
+751,What happened with a bromide emulsion in two sheets of very thick black paper?,the plate does not become clouded upon being exposed to the sun for a day,"A bromide emulsion was wrapped in two sheets of very thick black paper to prevent clouding when exposed to the sun for a day. A phosphorescent substance was placed on the outer sheet, and the whole setup was exposed to the sun for several hours. After developing the photographic plate, the silhouette of the phosphorescent substance appeared as a black image on the negative. Placing objects like money or a metal screen between the phosphorescent substance and the paper resulted in the images of these objects appearing on the negative. This indicated that the phosphorescent substance emitted rays that passed through the black paper and reduced silver salts."
+752,Is there a becquerel crater on the moon and a becquerel crater on mars?,yes,"Yes, there is a Becquerel crater on the Moon and a Becquerel crater on Mars."
+753,Are the Javanese the largest and politically dominant ethnic group in Indonesia?,yes,"Yes, the Javanese are the largest and politically dominant ethnic group in Indonesia."
+755,Is Indonesia a monarchy with a presidential system?,no,"No, Indonesia is not a monarchy. It is a republic with a presidential system."
+757,Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?,yes,"Yes, the Japanese invasion and subsequent occupation during WWII ended Dutch rule."
+759,In what year did East Timor secede from Indonesia?,1999,1999.
+761,When did Islam become the dominant religion in Java and Sumatra?,the end of the 16th century,By the end of the 16th century.
+763,Does Indonesia have the world's hightest level of biodiversity?,no,"No, Indonesia does not have the world's highest level of biodiversity. It has the world's second highest level, after Brazil."
+765,Was Indonesia named after it became an independent country?,no,"No, Indonesia was not named after it became an independent country. The name dates to the 18th century."
+767,Why did Indonesia break off relations with the People's Republic of China?,because of anti-communist purges early in the Suharto era,"The provided context does not mention Indonesia breaking off relations with the People's Republic of China. It states that Indonesia restored relations with China in 1990 after a freeze. Therefore, there is no evidence in the context to answer the question."
+769,Which spice originally attracted Europeans to Indonesia?,"nutmeg, cloves, or cubeb pepper",Nutmeg.
+771,What is Jakarta?,Indonesia's special capital region,Jakarta is the capital of Indonesia and its largest commercial center.
+772,"What shares land borders with Papua New Guinea, East Timor and Malaysia?",Indonesia,"Indonesia shares land borders with Papua New Guinea, East Timor, and Malaysia."
+773,What are the largest and politically dominant ethnic group?,the Javanese,The largest and politically dominant ethnic group in Indonesia is the Javanese.
+774,What happens when the srivijaya kingdom formed trade links?,The indonesian archipelago became an important trade region,"When the Srivijaya Kingdom formed trade links, it helped establish Indonesia as an important trade region, fostering economic growth and cultural exchange."
+775,Is it true that indonesia has vast areas of wilderness?,yes,"Yes, it is true that Indonesia has vast areas of wilderness. The context states that despite its large population and densely populated regions, Indonesia has vast areas of wilderness that support the world's second highest level of biodiversity."
+776,Is Indonesia a republic?,yes,"Yes, Indonesia is a republic."
+777,Are Sports in Indonesia generally male-orientated?,yes,"Yes, according to the context, sports in Indonesia are generally male-orientated."
+778,Is Indonesia the world's largest archipelagic state?,yes,"Yes, Indonesia is the world's largest archipelagic state."
+779,Are sports in Indonesia generally male-orientated and spectator sports are often associated with illegal gambling ?,yes,"Yes, based on the context provided, sports in Indonesia are generally male-orientated and spectator sports are often associated with illegal gambling."
+780,Is Pencak Silat an Indonesian martial art ?,yes,"Yes, Pencak Silat is an Indonesian martial art."
+781,Has Indonesia the world 's largest Muslim population ?,yes,"Yes, Indonesia has the world's largest Muslim population."
+782,Who has its own political legislature and governor ?,each province,"The question refers to a country with its own political legislature and governor. Based on the context, the Republic of Singapore has a unicameral parliamentary government with a Prime Minister as the head of government and a President with some veto powers. However, the context does not explicitly mention a ""governor"" in the same way as the provinces described. The context mentions a Lieutenant-Governor for provinces, but not for Singapore. Therefore, the answer is not clearly provided in the context."
+783,Is it the world 's largest archipelagic state?,yes,"Yes, the Republic of Indonesia is the world's largest archipelagic state."
+784,Is it the world 's fourth most populous country and the most populous muslim-majority nation?,yes,Yes. The Republic of Indonesia is the world's fourth most populous country and the most populous Muslim-majority nation.
+785,Is indonesia a republic?,yes,"Yes, Indonesia is a republic."
+810,Is James Monrow the fifth president of US?,Yes,"No, James Monrow is not the fifth president of the US. The context mentions Grover Cleveland, who was the 22nd and 24th president, and John Quincy Adams, who was the sixth president. There is no mention of James Monrow being a president."
+812,What is the first word on the page?,James,"The first word on the page is ""First""."
+814,What is the first number on the page?,28,The context does not provide information about numbers on a page.
+816,When did Monroe's presidency expired?,"March 4, 1825","Monroe's presidency expired on March 4, 1825."
+818,What is Monroe's father's name?,Spence,Spence Monroe.
+820,What is Monroe's daughter's name?,Maria Hester Monroe Gouverneur,Monroe's daughter's name is Maria Hester Monroe Gouverneur.
+822,"What does ""Era of Good Feelings"" refers to?",Reduced tension,"The provided context does not answer the question about the ""Era of Good Feelings."""
+824,Did Monroe' wedding happen at the Trinity Church in New York?,Yes,"Yes, Monroe's wedding happened at the Trinity Church in New York."
+826,What is Monroe Doctrine?,A doctrine declaring U.S. opposition to European interference in the Americas.,"The Monroe Doctrine is a U.S. policy stating the Americas should be free from European colonization and interference, and the U.S. would oppose European actions in the Americas. It was proclaimed by President Monroe in 1823."
+828,Was James Monroe President of the United States?,yes,"Yes, James Monroe was the fifth President of the United States, serving from 1817 to 1825."
+830,Did James Monroe attend the College of William and Mary?,yes,"Yes, James Monroe attended the College of William and Mary."
+832,Did James Monroe fight in the Continental Army?,yes,"Yes, James Monroe fought in the Continental Army."
+834,Where was James Monroe born?,"Westmoreland County, Virginia","James Monroe was born in Westmoreland County, Virginia."
+836,Where was James Monroe shot?,"at the Battle of Trenton, in his left shoulder",James Monroe was shot at the Battle of Trenton.
+838,Who did James Monroe marry?,Elizabeth Kortright,James Monroe married Elizabeth Kortright.
+840,What did James Monroe do before being elected governor?,He practiced law in Virginia.,"Before being elected governor, James Monroe served in the Virginia House of Delegates, was in the Continental Congress, was a United States Senator, and practiced law in Virginia."
+842,In which years were John Monroe elected as President?,1817-1825,John Monroe was elected president in 1816 and 1820.
+844,Who was John Monroe standing behind in the painting of  Washington Crossing the Delaware?,George Washington,The context does not mention John Monroe standing behind anyone in the painting of Washington Crossing the Delaware.
+846,When was James Monroe appointed to Secretary of War?,1814,James Monroe was appointed to Secretary of War in 1814.
+848,When did James Monroe die?,"July 4, 1831","James Monroe died on July 4, 1831."
+850,When did James Monroe graduate from William and Mary?,1776,James Monroe graduated from the College of William and Mary in 1776.
+852,When was James Monroe elected president?,"Monroe was elected president in the election of 1816, and re-elected in 1820.",James Monroe was elected president in the election of 1816.
+854,Which property did James Monroe sell in 1817?,Monroe Hill on the grounds of the University of Virginia.,James Monroe sold the University of Virginia's campus (his family farm) in 1817.
+856,When did James Monroe introduce the Monroe Doctrine?,"December 2, 1823","December 2, 1823."
+858,Who did James Monroe live with in New York City?,His daughter Maria Hester Monroe Gouverneur,James Monroe lived with his daughter Maria Hester Monroe Gouverneur in New York City after Elizabeth's death in 1830.
+860,What did James Monroe's letters not contain?,No letters survive in which he might have discussed his religious beliefs.,James Monroe's letters did not contain discussions of religion.
+862,What was the result of the rejection of the Jay Treaty?,"As a result, the two nations moved closer toward the War of 1812. ","The rejection of the Jay Treaty led to increased tensions between the United States and Britain, contributing to the movement toward the War of 1812."
+864,Who is depicted holding the flag in the famous painting of Washington Crossing the Delaware?,Monroe,The question cannot be answered based on the provided context. The context does not mention anyone holding a flag in the painting of Washington Crossing the Delaware.
+865,"What dwindled and eventually died out, starting with the Hartford Convention?",The Federalist Party,"The Federalist Party dwindled and eventually died out, starting with the Hartford Convention."
+866,Is it true that he practiced law in fredericksburg?,yes,"Yes, it is true that he practiced law in Frederickburg."
+867,What did James Monroe make in 1817?,two long tours,"In 1817, James Monroe made two long tours."
+868,Was Monroe anticlerical?,no,"Yes, Monroe was not anticlerical."
+869,Was Monroe appointed Minister to France from 1794 to 1796?,yes,"Yes, Monroe was appointed Minister to France from 1794 to 1796."
+870,What expired on March?,Monroe's presidency,The evidence provided does not mention anything expiring on March.
+871,Had Monroe racked up many debts during his years of public life ?,yes,"Yes, Monroe had racked up many debts during his years of public life."
+872,Who dismantled partisan and sectional coalitions ?,many congressmen,"The evidence provided does not explicitly state who dismantled partisan and sectional coalitions. It discusses political parties and coalitions in Romania and mentions Wilson's views on the committee system in the U.S. Congress, but does not directly address the dismantling of coalitions."
+874,What happened in 1811?,Monroe returned to the Virginia House of Delegates and was elected to another term as governor of Virginia,"In 1811, there is no specific event mentioned in the provided context. However, the context mentions that large-scale immigration to Canada began in 1815 and the War of 1812 occurred."
+875,What happened in the election of 1816?,Monroe was elected president,"The election of 1816 resulted in James Monroe's election as president. He was re-elected in 1820. Monroe ran nearly uncontested in both elections. He made strong Cabinet choices, including John C. Calhoun as Secretary of War and John Quincy Adams as Secretary of State. The Federalist Party declined, and the Democratic-Republican Party lost vitality. The ""Era of Good Feelings"" followed."
+876,Who died in childbirth in 1772?,Margaret Miller,Margaret Miller died in childbirth in 1772.
+877,Who died in 1832?,Margaret Miller.,Elizabeth died in 1830. Monroe died in 1831. Newton died in 1727. Lincoln died in 1865.
+878,"Is watt commemorated by statuary in George Square, Glasgow and Princes Street, Edinburgh?",Yes.,"Yes, Watt is commemorated by statuary in George Square, Glasgow and Princes Street, Edinburgh."
+879,"Was watt a gentleman, greatly respected by other prominent men of the Industrial Revolution?",Yes.,"Yes, based on the context, Watt was a gentleman greatly respected by other prominent men of the Industrial Revolution."
+880,Was watt a fellow of the Royal Society of Edinburgh and the Royal Society of London?,Yes.,"Yes, Watt was a fellow of the Royal Society of Edinburgh and the Royal Society of London."
+881,"Four years after opening his shop , Watt began what?","Watt began to experiment with steam after his friend, Professor John Robison, called his attention to it.",Watt began to experiment with steam.
+882,Was Watt ranked 22nd in Michael H. Hart 's list of the most influential figures in history ?,Yes.,"Yes, according to the context, Watt was ranked 22nd in Michael H. Hart's list of the most influential figures in history."
+883,Did John Adams represent the Continental Congress in Europe?,Yes.,"Yes, John Adams represented the Continental Congress in Europe."
+885,Was Adams raised Congregationalist?,Yes.,"Yes, Adams was raised Congregationalist."
+887,Was Adams an opponent of the Stamp Act?,Yes.,"Yes, Adams was an opponent of the Stamp Act."
+889,When did Adams graduate from college?,1755.,Adams graduated from college in 1755.
+891,Who was on the committee with Adams to draft  a Declaration of Independence?,"Thomas Jefferson, Benjamin Franklin, Robert R. Livingston and Roger Sherman.","Thomas Jefferson, Benjamin Franklin, Robert R. Livingston, and Roger Sherman."
+893,What did Jefferson call John Adams?,"The ""Colossus of Independence"".","Jefferson called John Adams ""the Colossus of Independence."""
+895,What was Adams' political party?,The Federalist Party.,Adams was a member of the Federalist Party.
+897,Was Adams the first to introduce a bicameral legislature?,Yes.,"Yes, according to the context, Massachusetts's 1780 constitution was the first to feature a bicameral legislature. Therefore, Adams was the first to introduce a bicameral legislature."
+899,Did John Adams get along with Alexander Hamilton?,No.,The context does not directly address whether John Adams got along with Alexander Hamilton. It mentions their conflict within the Federalist party but does not provide information on their personal relationship.
+901,Did John Adams go to Harvard? ,yes,"Yes, John Adams went to Harvard. He graduated from Harvard in 1880."
+903,Did John Adams support the Stamp Act of 1765?,No,"Yes, John Adams opposed the Stamp Act of 1765. He drafted the Braintree Instructions and contributed articles against the Stamp Act."
+905,Is Adams' birthplace part of a national park?,yes,"Yes, Adams' birthplace is part of Adams National Historical Park."
+907,When did John Adams serve as Vice President?,1789-1797,John Adams served as Vice President from 1789 to 1797.
+909,With what party did Adams run for presidency?,The Federalist Party,Adams ran for presidency with the Federalist Party.
+911,Where is Adams buried?,United First Parish Church,Adams is buried in a family crypt beneath the United First Parish Church.
+913,Who were the midnight judges?,"They were a series of judges, so called because most of them were formally appointed days before Adams' presidential term expired",The Midnight Judges were a series of judges appointed by John Adams as his term was expiring.
+915,In what ways was Adams opposed by Anderw Hamilton?,Hamilton wanted to control the army differently than Adams,"Andrew Hamilton opposed Adams by refusing to consult him on key legislation, changing defense measures, demanding Hamilton control the army, and refusing to give key Democratic-Republicans senior positions in the army."
+916,What information did he record in his diary?,Descriptions of events and ompressions of men,The evidence does not specify the exact information recorded in his diary.
+918,Who was defeated for re-election in the`` Revolution of 1800'' by Thomas Jefferson?,John Adams,"John Adams was defeated for re-election in the ""Revolution of 1800"" by Thomas Jefferson."
+919,Who represented the Continental Congress in Europe?,John Adams,Benjamin Adams represented the Continental Congress in Europe.
+920,What is now part of Adams National Historical Park?,John Adams' birthplace,The birthplace of John Adams is now part of Adams National Historical Park.
+921,Is it true that adams had spent some time as the ambassador?,yes,"Yes, John Adams served as the first American ambassador to Great Britain."
+922,Is it true that massachuS08_setts sent him in 1774?,yes,"Yes, it is true that Massachusetts sent him to the Continental Congress in 1774."
+923,Who did MassachuS08_setts send in 1774?,John Adams,Massachusetts sent John Adams to the first and second Continental Congresses in 1774.
+924,"Are his last words often quoted as "" Thomas Jefferson survives "" . ?",yes,Yes.
+925,"The John Adams Library , housed at the Boston Public Library , contains what?","Adams's personal collection of more than 3,500 volumes","The John Adams Library contains Adams's personal collection of more than 3,500 volumes in eight languages, many of which are extensively annotated by Adams."
+926,Adams ' opponents were what?,Democratic Republicans,Adams' opponents were Thomas Jefferson and Aaron Burr.
+927,"Did the election of 1800 not become a bitter and volatile battle , with each side expressing extraordinary fear of the other party and its policies ?",No.,"Yes, the election of 1800 became a bitter and volatile battle, with each side expressing extraordinary fear of the other party and its policies."
+928,What happened in 1764?,Adams married Abigail Smith,"In 1764, John Adams married Abigail Smith."
+929,Is a kangaroo a reptile?,no,"No, a kangaroo is not a reptile. It is a marsupial."
+931,Is a kangaroo on the Australian coat of arms?,yes,"Yes, a kangaroo is on the Australian coat of arms."
+933,"Was James Cook the first to record the name ""Kangooroo?""",yes,"Yes, James Cook was the first to record the name ""Kangooroo."""
+935,What is a collective noun for kangaroos?,"mob, troop, or court","A collective noun for kangaroos is a mob, troop, or court."
+937,Where do joeys complete postnatal development?,marsupium,Joeys complete postnatal development in the pouch.
+939,"What do kangaroos use for ""crawl-walking?""",its hind feet,"Kangaroos use their forepaws for ""crawl-walking."""
+941,Why do kangaroos have a wide bite?,The two sides of the lower jaw are not joined together and the lower incisors are farther apart.,"The context explains that kangaroos have a wide bite because the lower jaw's sides are not joined, making the lower incisors farther apart. This wide bite helps them crop grass close to the ground."
+943,What is responsible for converting the hydrogen byproduct of fermentation into acetate?,bacteria,The bacteria responsible for converting the hydrogen byproduct of fermentation into acetate are responsible.
+945,Are wild kangaroos shot for meat?,yes,"Yes, wild kangaroos are shot for meat, over which there is controversy."
+947,Have kangaroos fared well since European S08_settlement?,yes,"Yes, kangaroos have fared well since European settlement."
+949,Do kangaroos have many natural predators?,no,"Yes, kangaroos have few natural predators."
+951,What is the average life expectancy of a kangaroo?,4.6 years,The average life expectancy of a kangaroo is about 4 to 6 years.
+953,When did the first official report of kangaroo blindness take place?,1994,The first official report of kangaroo blindness took place in 1994.
+955,What are vehicles that frequent isolated roads often fitted with?,roo bars,"Vehicles that frequent isolated roads are often fitted with ""roo bars"" to minimise damage caused by collision."
+957,Do kangaroos eat plants?,yes,"Yes, kangaroos eat plants."
+959,What are some extinct predators of the kangaroo?,"Thylacine, Marsupial Lion, Maagalania, and Wonambi","The extinct predators of the kangaroo include the Thylacine, Marsupial Lion, Megalania, and Wonambi."
+962,Is a Kangaroo a Marsupial?,Yes,"Yes, a kangaroo is a marsupial."
+964,Is the kangaroo an herbivour?,Yes,"Yes, kangaroos are herbivores. Different species of kangaroos eat different diets, including grasses and shrubs."
+966,Are Kangaroos Shy?,Yes,"Yes, kangaroos are shy."
+968,What method of locomotion do Kangaroos Use?,hopping,Kangaroos use hopping as a method of locomotion.
+972,What is a collective noun for a kangaroo?,"a mob, troop, or court","A collective noun for a kangaroo is a mob, troop, or court."
+974,What is a roo?,a kangaroo,"A ""roo"" is a colloquial term for a kangaroo."
+976,What is used to protect a vehicale from a Kangaroo?,roo bars,"Kangaroos can be protected from vehicles by avoiding roads, especially during travel. ""Kangaroo crossing"" signs are used to warn drivers."
+978,What method is used by Kangaroos to travel?,hopping,Hopping is the method used by kangaroos to travel.
+979,Who asked a nearby local what the creatures were called?,Captain James Cook and naturalist Sir Joseph Banks,Captain James Cook and naturalist Sir Joseph Banks asked a nearby local what the creatures were called.
+980,What are four species that are commonly referred to as kangaroos?,"The Red Kangaroo, The Eastern Grey Kangaroo, The Western Grey Kangaroo, and The Antilopine Kangaroo","1. Red Kangaroo  
+2. Antilopine Kangaroo  
+3. Eastern Grey Kangaroo  
+4. Western Grey Kangaroo"
+981,Are kangaroos and wallabies adept swimmers?,yes,"Yes, the context states that kangaroos and wallabies are adept swimmers and often flee into waterways if presented with the option."
+982,Are kangaroos farmed to any extent?,No.,"Yes, kangaroos are not farmed to any extent."
+983,Who also discovered that less than three percent of kangaroos exposed to the virus developed blindness ?,Veterinarians,Veterinarians.
+984,Different species of kangaroos eat what?,different diets,"Different species of kangaroos eat different diets. Eastern grey kangaroos eat grasses, while red kangaroos and swamp wallabies include shrubs. Smaller species also consume hypogeal fungi."
+985,Have Kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?,yes,"Yes, kangaroos dazzled by headlights or startled by engine noise have been known to leap in front of cars."
+986,Is a collision with a vehicle capable of killing a kangaroo ?,yes,"Yes, a collision with a vehicle can kill a kangaroo."
+987,Was the game of Marn grook played using a ball made from kangaroo by the Kurnai people ?,yes,"Yes, according to the context, the game of Marn grook was played using a ball made from kangaroo by the Kurnai people."
+988,"Have kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?",yes,"Yes. The context states: ""Kangaroos have large, powerful hind legs, large feet adapted for leaping, a long muscular tail for balance, and a small head."""
+989,"Is a kangaroo a marsupial from the family macropodidae -LRB- macropods , meaning (`` ` large foot ('' ' -RRB-?",yes,"Yes, a kangaroo is a marsupial from the family Macropodidae, and the term ""macropod"" means ""large foot."""
+990,What kinds of changes have larger kangaroos adapted much better to?,Changes wrought to the Australian landscape by humans.,"Larger kangaroos have adapted better to changes in the Australian landscape caused by human activities, such as deforestation for grazing land and reduced dingo numbers."
+991,Have larger kangaroos adapted much better to changes?,yes,"Yes, larger kangaroos have adapted better to changes in the Australian landscape caused by humans."
+992,Is the leopard smaller than the other members of Panthera?,yes,"Yes, the leopard is smaller than the other members of Panthera."
+994,Is a leopard larger and less lanky than a cheetah?,yes,"Yes, the leopard is larger and less lanky than the cheetah."
+996,Are large pythons potential prey for leopards?,yes,"Yes, large pythons are potential prey for leopards."
+998,What may a leopard be mistaken for?,A cheetah or a jaguar,A leopard may be mistaken for a cheetah or a jaguar.
+1000,What is a hybrid animal resulting from a union between a leopard and a puma?,a pumapard,A pumapard is a hybrid animal resulting from a union between a leopard and a puma.
+1002,Where do leopards often hide their kills?,in dense vegetation,Leopards often hide their kills in dense vegetation or take them up trees.
+1004,How did early naturalists distinguish between leopards and panthers?,by the length of their tails,"Early naturalists distinguished between leopards and panthers by the length of the tail, with panthers having longer tails than leopards."
+1006,What are dark leopards known as colloquially?,Black Panthers,Dark leopards are known colloquially as Black Panthers.
+1008,What shape are a leopard's black roS08_settes in East Africa?,circular,The black rosettes of a leopard in East Africa are circular.
+1010,Is the leopard an Old World mammal?,yes,"Yes, the leopard is an Old World mammal."
+1013,Is the leopard of the Felidae family?,yes,"Yes, the leopard is in the Felidae family."
+1016,Is the leopard one of the four 'big cats'?,yes,"Yes, the leopard is one of the four 'big cats' of the genus Panthera."
+1019,Where is the leopard distributed?,southern Eurasia and Africa,"The leopard is distributed in Africa, Asia, and parts of Europe. It is found in grasslands, woodlands, and riverside forests."
+1022,How long is a leopard's tail?,60 to 110cm,A leopard's tail is between 60 and 110 cm long.
+1025,How much does a leopard weigh?,Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females. ,The leopard's weight ranges from 28 to 90 kg for females and 37 to 90 kg for males.
+1028,Does a male leopard weigh more than a female leopard?,yes,"Yes, male leopards weigh more than female leopards."
+1031,What is the difference between leopards and cheetahs?,The leopard has roS08_settes rather than cheetah's simple spots and the leopard is larger and less lanky than the cheetah.,"The leopard has rosettes instead of cheetah's simple spots, is smaller and less lanky than the cheetah, and has a different coat pattern. Cheetahs have simple spots and are more slender."
+1034,How does the distribution size of the leopard compare to the distribution of other wild cats?,"As of 1996, the leopard had the largest distribution of any wild cat, although populations before and since have shown a declining trend and are fragmented outside of subsaharan Africa.",The leopard has the largest distribution of any wild cat as of 1996.
+1037,What resembles that of the similarly-sized cougar in the Americas?,The leopard's ecological role,The leopard's ecological role resembles that of the similarly-sized cougar in the Americas.
+1038,"What was one of the many species described in Linnaeus's 18th-century work, Systema Naturae?",Felis pardus,"Felis pardus was one of the many species described in Linnaeus's 18th-century work, Systema Naturae."
+1039,What sort of cats are solitary?,Leopards,Leopards are solitary.
+1040,Are leopards circular?,No,"Yes, leopards are circular in East Africa but tend to be square in southern Africa."
+1041,Is the leopard solitary?,Yes,"Yes, the leopard is solitary."
+1042,What centred in Sierra?,The leopard men,"The context provided does not mention anything about ""Sierra"" or what is centred in Sierra. Therefore, the question cannot be answered based on the given evidence."
+1043,Felis pardus was what?,"One of the many species described in Linnaeus's 18th-century work, Systema Naturae","Felis pardus was a species described in Linnaeus's 18th-century work, Systema Naturae."
+1044,Has the New Zealand Rugby League featured the Otahuhu Leopards and then the Tamaki Leopards ?,Yes,"Yes, the New Zealand Rugby League has featured the Otahuhu Leopards and then the Tamaki Leopards."
+1045,Were the Leopard men a West African secret society who practised cannibalism ?,Yes,"Yes, the Leopard men were a West African secret society who practised cannibalism."
+1046,Was the leopard tank a German designed tank which entered service in 1965 ?,Yes,"Yes, the leopard tank was a German designed tank which entered service in 1965."
+1047,Is the black color heritable and caused by only one recessive gene locus ?,Yes,"Yes, the black color is heritable and caused by only one recessive gene locus."
+1048,"Is the leopard -LRB- panthera pardus -RRB- an old world mammal of the felidae family and the smallest of the four (`` ` big cats ('' ' of the genus panthera , along with the tiger , lion , and jaguar?",Yes,"Yes. The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four ""big cats"" of the genus Panthera, along with the tiger, lion, and jaguar."
+1049,Can a panther be any of several species of large felid?,Yes,"Yes, a panther can be any of several species of large felid."
+1050,Is the leopard an agile and graceful predator?,Yes,"Yes, the leopard is an agile and graceful predator."
+1051,Is Liechtenstein bordered by Switzerland?,Yes,"Yes, Liechtenstein is bordered by Switzerland to its west."
+1053,Is Liechtenstein the smallest German-speaking country in the world?,Yes,"Yes, according to the context, Liechtenstein is the smallest German-speaking country in the world."
+1055,Was Liechtenstein part of the ancient Roman province of Raetia?,Yes,"Yes, according to the context, Liechtenstein was part of the ancient Roman province of Raetia."
+1057,When was the first factory opened?,1836,The first factory was opened in 1836.
+1059,How many municipalities is Liechtenstein divided into?,11,11 municipalities.
+1061,What is the national currency of Liechtenstein?,Swiss franc,The national currency of Liechtenstein is the Swiss franc.
+1063,Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?,Yes,"Yes, Liechtenstein has worked to promote the county's image by prosecuting international money-laundering."
+1064,What company administers Leichtenstein's railways?,Austrian Federal Railways,The Austrian Federal Railways administer Liechtenstein's railways.
+1066,What percentage of Liechtenstein's population is foreign-born?,two-thirds,Approximately 33% of Liechtenstein's population is foreign-born.
+1068,Is there an airport in Liechtenstein?,No.,"No, there is no airport in Liechtenstein. There is a small heliport at Balzers for charter helicopter flights."
+1070,Is Liechtenstein heavily urbanized?,No.,"No, Liechtenstein is not heavily urbanized."
+1072,Is Liechtenstein doubly landlocked?,Yes.,"Yes, Liechtenstein is doubly landlocked."
+1074,Does Liechtenstein have an army?,No.,"Yes, Liechtenstein has no army. Defense is the responsibility of Switzerland."
+1076,When was Liechtenstein's current constitution adopted?,October 1921.,October 1921.
+1078,What is the official language of Liechtenstein?,German.,The official language of Liechtenstein is German.
+1080,What countries border Liechtenstein?,Switzerland and Austria.,Switzerland and Austria.
+1082,What Roman province was Liechtenstein part of?,Raetia.,The Roman province was Raetia.
+1084,How many municipalities are within Oberland?,6.,"The context mentions 416 municipalities in Finland as of January 1, 2007. However, the question is about ""Oberland,"" which is not mentioned in the provided context. Therefore, the number of municipalities within Oberland cannot be determined from the given information."
+1086,What is the smallest German-speaking country in the world?,Liechtenstein,Liechtenstein is the smallest German-speaking country in the world.
+1087,"The Savings and Loans Bank was founded, as was the first cotton-weaving mill in what year?",1861,1861.
+1088,What enjoys one of the world's highest standards of living?,Liechtenstein's population,The country's population enjoys one of the world's highest standards of living.
+1089,Does the state court rule on the conformity of laws?,Yes,"Yes, the State Court rules on the conformity of laws with the constitution."
+1090,What do most recognizable international company and largest employer have in common?,They are Hilti.,Most recognizable international companies and largest employers often have a global presence and significant economic impact.
+1092,Was Liechtenstein completed in November 2000?,No,"No, Liechtenstein's constitution was adopted in October 1921, not in November 2000."
+1093,What completed in November?,the Kunstmuseum Liechtenstein,The Panama Canal construction progress was inspected by a President in November 1906. The Esplanade opened in October 2002. The October War occurred in 1973.
+1094,The State Court rules what?,on the conformity of laws with the constitution,The State Court rules on the conformity of laws with the constitution.
+1095,The Historical Society of the Principality of Liechtenstein plays what?,a role in preserving the culture and history of the country.,The Historical Society of the Principality of Liechtenstein plays a role in preserving the culture and history of the country.
+1096,Is the museum collection also the national art collection of Liechtenstein ?,Yes,"Yes, the museum collection is also the national art collection of Liechtenstein."
+1097,Is there a small heliport at Balzers in Liechtenstein available for charter helicopter flights ?,Yes,"Yes, there is a small heliport at Balzers in Liechtenstein available for charter helicopter flights."
+1098,Are nationals referred to by the plural : Liechtensteiners ?,Yes,"Yes, the context states that ""Nationals are referred to by the plural: Liechtensteiners."""
+1099,"Is it a winter sports resort , although it is perhaps best known as a tax haven ?",Yes,"Yes, the Principality of Liechtenstein is a winter sports resort."
+1100,Is it a winter sports resort?,Yes,"Yes, it is a winter sports resort."
+1101,Is it the smallest german-speaking country in the world?,Yes,"Yes, according to the context, Liechtenstein is the smallest German-speaking country in the world."
+1102,"What happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?",The Liechtenstein Dynasty acquired vast swaths of land,"In Moravia, Lower Austria, Silesia, and Styria, the Liechtenstein dynasty held territories in fief under more senior feudal lords, particularly the Habsburg family."
+1103,"Did Webster write, ""I can now sleep of nights""?",Yes.,"Yes, Webster wrote, ""I can now sleep of nights."""
+1105,Was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution) another issue that presented itself during Fillmore's presidency?,Yes,"Yes, the arrival of Louis Kossuth was another issue during Fillmore's presidency."
+1107,"Did he die at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke?",Yes,"Yes, based on the context provided, he died at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke."
+1109,Who got Seward elected to the senate?,Weed,Weed got Seward elected to the senate.
+1111,Where was Commodore Matthew C. Perry sent to open Japan to Western trade?,Japan,Commodore Matthew C. Perry was sent to Japan to open it to Western trade.
+1113,What is The Remarkable Millard Fillmore?,A fake biography based on real events that happened in Fillmore's life.,"""The Remarkable Millard Fillmore"" is a fake biography written by George Pendle in 2007 that mixes imagined events with real events from Millard Fillmore's life."
+1115,Did Fillmore form a law partnership before or after he founded the private University of Buffalo?,Before.,Fillmore formed a law partnership before he founded the private University of Buffalo.
+1117,Did Fillmore run for President a second time?,Yes,"Yes, Fillmore ran for President a second time. He ran in the 1856 election."
+1119,How long after the death of his first wife did Fillmore marry Caroline McIntosh?,where is the death date of his first wife?,"The evidence does not provide the date of Fillmore's first wife's death. It only states that he married Caroline McIntosh on February 10, 1858, after her death. Therefore, the duration cannot be determined from the given context."
+1120,Was Millard Fillmore the thirteenth President of the United States?,yes,"Yes, Millard Fillmore was the thirteenth President of the United States."
+1123,"Was Millard Fillmore born on January 7, 1800?",yes,"Yes, Millard Fillmore was born on January 7, 1800."
+1126,"Did Millard Fillmore die on March 8, 1974?",no,"No, Millard Fillmore did not die on March 8, 1974. He died on March 8, 1874."
+1129,Where was Millard Fillmore born?,"in a log cabin in Summerhill, New York","Millard Fillmore was born in Summerhill, New York."
+1132,To whom was Millard Fillmore born to?,to Nathaniel and Phoebe Millard Fillmore,Millard Fillmore was born to Nathaniel and Phoebe Millard Fillmore.
+1135,Who did Millard Fillmore fall in love with?,He fell in love with Abigail Powers,Millard Fillmore fell in love with Caroline McIntosh.
+1138,What did Taylor and Fillmore disagree upon?,slavory issues,"Taylor and Fillmore disagreed on the slavery issue in the new western territories taken from Mexico. Taylor wanted free states, while Fillmore supported slavery."
+1141,How did Fillmore ascend to the presidency?,"upon the death of the sitting president, Taylor",Fillmore ascended to the presidency upon the sudden death of President Taylor in July 1850. He became the second Vice President to assume the presidency upon a president's death.
+1144,How did the supporters of Henry Clay feel about Fillmore in 1848?,they were ok with him,"The supporters of Henry Clay felt that Fillmore would help heal party wounds and carry New York state. They also recognized Clay's plan as the best way to end the sectional crisis. Fillmore supported the Compromise of 1850, which Clay had proposed."
+1147,Who was first apprenticed to a fuller to learn the cloth-making trade?,millard fillmore,Fillmore.
+1148,He founded the private university of buffalo on what date?,1846,"He founded the private University of Buffalo on May 11, 1846."
+1149,Who or what fell in love with abigail powers?,millard fillmore,"The evidence provided does not mention anyone falling in love with Abigail Powers. It mentions that he fell in love with Abigail Powers and later married her. The rest of the text discusses Abigail Adams, the wife of John Adams. Therefore, the answer cannot be determined from the given context."
+1150,Was Fillmore one of the founders of the University of Buffalo?,yes,"Yes, Fillmore was one of the founders of the University of Buffalo."
+1151,Was Another primary objective of Fillmore to preserve the Union from the intensifying slavery debate?,yes,Yes. Another primary objective of Fillmore was to preserve the Union from the intensifying slavery debate.
+1152,"Was Fillmore the second Chancellor, a position he maintained while both Vice President and President?",no,"Yes, Fillmore was the first Chancellor, a position he maintained while both Vice President and President."
+1153,Is Fillmore the first of two presidents to have been an indentured servant ?,yes,Yes. Fillmore is the first of two presidents to have been an indentured servant.
+1154,Is the comic strip Mallard Fillmore named after the president ?,yes,"Yes, the comic strip Mallard Fillmore is named after the president."
+1155,Was Fillmore the first U.S. President born after the death of a former president ?,yes,"Yes. Fillmore was born three weeks after George Washington's death, making him the first U.S. President born after the death of a former president."
+1156,"Did Fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?",no,"No, Fillmore did turn down the honor, explaining that he had neither the ""literary nor scientific attainment"" to justify the degree."
+1157,"What happened in a log cabin in summerhill , new york?",Fillmore was born,"Fillmore was born in a log cabin in Summerhill, New York."
+1158,"Who was born precisely at midnight during an electrical storm , to a Serbian family in the village of Smiljan near Gospić , in the Lika region of the Croatian Krajina in Military Frontier ( part of the Austrian Empire ) , in the present-day Croatia . ?",Nikola Tesla,Nikola Tesla.
+1159,Are there at least two films describing Tesla 's life ?,Yes.,"Yes, there are at least two films describing Tesla's life."
+1160,Have a number of live theatrical plays based on Tesla 's life been produced and staged worldwide ?,yes.,"Yes, a number of live theatrical plays based on Tesla's life have been produced and staged worldwide."
+1161,Do sea otters have long muscular tails?,no,"No, sea otters do not have long muscular tails."
+1163,Can otters survive in cold water?,yes,"Yes, otters can survive in cold water. They have high metabolic rates and rely on a layer of air trapped in their fur for insulation."
+1165,Does the giant otter inhabit South Africa?,no,"No, the giant otter does not inhabit South Africa. It inhabits South America, especially the Amazon river basin."
+1167,How many species of otter are there?,13,13 species.
+1169,What do river otters eat?,"a variety of fish and shellfish, as well as small land mammals and birds","River otters eat a variety of fish and shellfish, as well as small land mammals and birds."
+1171,How much do sea otters weigh?,30 kg (about 65 pounds),Sea otters weigh 30 kg (about 65 pounds).
+1173,How do sea otters insulate themselves?,a layer of air trapped in their fur(!),"Sea otters insulate themselves using a layer of air trapped in their fur, which they keep topped up by blowing into their fur from their mouths."
+1175,Why are sea otters nearly extinct?,They've been hunted for their fur,Sea otters are nearly extinct due to historical hunting for their valuable fur.
+1177,What is one of the challenges of re-establishing a population of Eurasian otters in the UK?,roadkill deaths,Roadkill deaths are a significant threat to the success of re-establishing Eurasian otters in the UK.
+1179,Is otter a kind of mammal?,yes,"Yes, otters are mammals."
+1181,How many species and genera does otter have?,13 species and 7 genera,13 species in 7 genera.
+1183,Do otters live in water?,yes,"Yes, otters live in water."
+1187,Where do sea otters live?,Sea otters (Enhydra lutris) live along the Pacific coast of North America. ,Sea otters live along the Pacific coast of North America.
+1189,"Where does the word ""otter"" derive from?","The word ""otter"" derives from the Old English word otr, otor or oter. ","The word ""otter"" derives from the Old English word otr, otor, or oter."
+1191,Does otter give birth or lay egg?,give birth,The provided context does not mention whether otters give birth or lay eggs.
+1192,What drives sea otter almost to extinction?,Humans hunted them almost to extinction. ,The fur trade drives sea otters almost to extinction.
+1194,Why otters are considered as totem animals?,"The time of year associated with this is also associated with the Aquarius sign of the Zodiac, through which the sun passes January 20-February 19. ","The context mentions that in some Native American cultures, otters are considered totem animals, but it does not explain why they are considered totem animals. The answer cannot be determined from the given evidence."
+1195,Do sea otters live along the Pacific coast?,Yes,"Yes, sea otters live along the Pacific coast."
+1197,Are otters totem animals?,Yes,"Yes, in some Native American cultures, otters are considered totem animals."
+1198,Are otters herbivores?,No,"No, otters are not herbivores. They are carnivorous."
+1200,What is the primary item in an otter's diet?,Fish.,Fish.
+1202,What is an otter's den called?,Holt,An otter's den is called a holt.
+1204,Why is the giant otter becoming increasingly rare?,"Poaching, habitat loss, and toxins in gold mining.  ","The giant otter is becoming increasingly rare due to poaching, habitat loss, and the use of mercury and other toxins in illegal alluvial gold mining."
+1206,How do otters keep themselves warm without blubber?,A layer of air trapped in their fur.  ,"Otters keep themselves warm without blubber by trapping air in their fur. They blow air into their fur to keep it topped up, which helps insulate them and keep them warm in cold water. They also have a high metabolic rate, which helps them generate body heat."
+1208,How are otters playful animals?,"The slide down snowy slopes, apparently for sheer enjoyment.  ",Otters are playful animals because they engage in activities like sliding down snowy slopes for enjoyment.
+1210,What animals are related to otters?,"weasels, polecats, and badgers","Weasels, polecats, badgers, and others are related to otters."
+1211,"What traps a layer of air, and keeps them dry and warm under water?",Long guard hair,A layer of air trapped in their feathers or fur keeps them dry and warm under water.
+1212,The collective noun romp is sometimes used for a group of what?,Otters,"The collective noun ""romp"" is used for a group of otters."
+1213,Is it true that otters eat a variety of fish?,yes,"Yes, it is true that otters eat a variety of fish."
+1214,Are otters playful animals?,yes,"Yes, otters are playful animals. The context states that otters are playful, giving examples like sliding down snowy slopes for enjoyment."
+1215,Are otters very active?,yes,"Yes, otters are very active."
+1216,Are male otters dog-otters?,yes,"Yes, male otters are called dog-otters."
+1217,An otter 's den is what?,A holt,An otter's den is called a holt.
+1218,Sea otters eat what?,Shellfish and other invertebrates,"Sea otters eat shellfish and other invertebrates, especially clams, abalone, and sea urchins."
+1219,Is the myth of Otter 's Ransom the starting point of the Volsunga saga ?,yes,"Yes, according to the context, the myth of Otter's Ransom is the starting point of the Volsunga saga."
+1220,"Are Male otters dog-otters , females are bitches and babies are cubs or pups ?",yes,"Yes, based on the context provided, male otters are called dog-otters, females are called bitches, and babies are called cubs or pups."
+1221,Is an otter 's den called a holt ?,yes,"Yes, an otter's den is called a holt."
+1222,"Have most otters fish as the primary item in their diet , supplemented by frogs , crayfish and crabs ?",yes,"Yes, based on the context provided, most otters have fish as the primary item in their diet, supplemented by frogs, crayfish, and crabs."
+1223,Do penguins feed on krill?,yes,"Yes, penguins feed on krill."
+1225,What is the largest living species of penguin?,Emperor Penguin,The largest living species of penguin is the Emperor Penguin (Aptenodytes forsteri).
+1227,Do penguins live almost exclusively in the Southern Hemisphere?,yes,"Yes, penguins live almost exclusively in the Southern Hemisphere."
+1229,"What is ""tobogganing""?",when penguins slide on their bellies across the snow,"""Tobogganing"" is a movement where penguins slide on their bellies across the snow to conserve energy while moving quickly."
+1231,Why are penguins countershaded?,for camouflage,"Penguins are countershaded to help them blend in with their environment. The white underside camouflages them from predators looking up from below, while the dark upper side camouflages them from above."
+1233,Are penguins afraid of humans?,no,"Based on the context, penguins do not have a special fear of humans. They approach explorers without hesitation but typically do not get closer than about 3 meters."
+1235,How much time to penguins spend on land?,half of their life,The context states that penguins spend half of their life on land.
+1237,How many species of penguins are there?,between 17 and 20 living species,"The number of penguin species is debated, ranging between 17 and 20."
+1239,How are Isabelline penguins different from most penguins?,they have brown rather than black plumage,Isabelline penguins have brown rather than black plumage and tend to live shorter lives than normal penguins.
+1241,Are penguins birds?,yes,"Yes, penguins are birds."
+1243,Do penguins have a better than average sense of hearing for birds?,yes,"No, penguins have an average sense of hearing for birds."
+1245,"Are penguins considered ""higher waterbirds""?",yes,"Yes, penguins are considered ""higher waterbirds."""
+1247,What order do penguins belong to?,Sphenisciformes,Penguins belong to the order Sphenisciformes.
+1251,How tall were the tallest prehistoric penguins?,1.80 meters,"The tallest prehistoric penguin was Nordenskjoeld's Giant Penguin, growing nearly 1.80 meters tall."
+1253,What makes penguins so agile in the water?,Their wings have become flippers,"Penguins are agile in the water due to their flippers, which help them swim efficiently. They also have a layer of air in their plumage that provides buoyancy and insulation."
+1255,"Why do penguins ""tobaggan""?",It conserves energy while moving quickly,"Penguins ""tobaggan"" to conserve energy while moving quickly across snow."
+1257,Who spend half of their life on land and half in the oceans?,Penguins,Penguins spend half of their life on land and half in the oceans.
+1258,What is also the distance that Antarctic tourists are told to keep from penguins?,3 meters,3 meters (9 ft)
+1259,"What have become flippers, useless for flight in the air?",Penguins' wings,Flippers.
+1260,What happens when mothers lose a chick?,"They sometimes attempt to ""steal"" another chick.","When mothers lose a chick, they sometimes attempt to steal another mother's chick, but often fail as other females help defend their chick."
+1261,Is it true that each penguin gets a turn in the center?,Yes,"Yes, it is true that each penguin gets a turn in the center."
+1262,Are all penguins countershaded?,Yes,Yes.
+1263,Are penguins astonishingly agile?,In the water they are.,"Yes, penguins are astonishingly agile in the water."
+1264,Are penguins at risk?,Yes,Penguins are at risk at sea from predators such as the leopard seal.
+1265,"Is it also possible that penguin comes from the Latin pinguis , fat ?",Yes,"Yes, based on the context provided."
+1266,Have penguins an average sense of hearing for birds ?,Yes,"Yes, penguins have an average sense of hearing for birds."
+1267,Can larger penguins dive deep in case of need ?,Yes,"Yes, larger penguins can dive deep in case of need."
+1268,"Is the smallest penguin species the Little Blue Penguin -LRB- also known as the Fairy Penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2.2 lb -RRB- ?",Yes,"Yes. The context confirms that the Little Blue Penguin, also known as the Fairy Penguin, is the smallest penguin species, standing around 40 cm tall (16 in) and weighing 1 kg (2.2 lb)."
+1269,"Is it not even known whether the gigantic palaeeudyptines constitute a monophyletic lineage , or whether gigantism was evolved independently in a much restricted Palaeeudyptinae and the Anthropornithinae ?",It is not even known.,"Yes, the text states that it is not even known whether the gigantic palaeeudyptines constitute a monophyletic lineage."
+1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,Yes,"Yes, the Emperor Penguin (Aptenodytes forsteri) is the largest living species, averaging 1.1 m tall and weighing 35 kg or more."
+1271,"Is the smallest penguin species the little blue penguin -LRB- also known as the fairy penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?",Yes,"Yes, the smallest penguin species is the Little Blue Penguin, also known as the Fairy Penguin. It stands around 40 cm tall (16 in) and weighs 1 kg (2.2 lb)."
+1272,What happened in a region not quite 2000 km south of the equator 35 mya?,At least one giant penguin.,"The evidence provided does not mention any specific events that occurred in a region not quite 2000 km south of the equator 35 mya. Therefore, the answer cannot be determined from the given context."
+1273,What is the last word on the page?,Connecticut,"The last word on the page is ""wars""."
+1275,Is polar bear a mammal?,Yes,"Yes, the polar bear is a mammal."
+1277,Is polar bear a carnivore?,Yes,"Yes, the polar bear is a carnivore."
+1279,What is largest polar bear on record?,2200 lb,The largest polar bear on record was a male weighing 1002 kg (2200 lb) shot at Kotzebue Sound in northwestern Alaska in 1960.
+1281,What is polar bear's skin color?,white or cream,The polar bear's skin is black in color.
+1283,How long is polar bear's guard hair?,5-15 cm,The guard hair of polar bears is 5-15 cm long over most of the body.
+1285,What is cause of polar bear's skin diseases?,mites or other parasites,"The cause of polar bear's skin diseases includes dermatitis from mites or parasites, Trichinella infection from cannibalism, heavy metals, ethylene glycol poisoning, and pollutants like PCBs. Global warming also affects their health, leading to thinner, stressed bears and decreased reproduction."
+1287,Why polar bear is a special species?,"The World Conservation Union listed polar bears as a vulnerable species, one of three sub-categories of threatened status, in May 2006. Their latest estimate is that 7 out of 19 subpopulations are declining or already severely reduced.","The polar bear is a special species because it is a marine mammal with a unique adaptation to the Arctic environment, including swimming abilities, thick blubber, and white fur for camouflage. It is also a large land carnivore and has a distinct evolutionary relationship with brown bears, though it is generally classified as a separate species."
+1288,What do fossil and DNA evidence tell us?,The polar bear diverged from the brown bear about 200 thousand years ago.,"Fossil and DNA evidence indicate that the polar bear diverged from the brown bear about 200,000 years ago, with the oldest polar bear fossil being less than 100,000 years old. Fossils also show significant changes in polar bear molar teeth between 10 and 20 thousand years ago. DNA evidence suggests the elephant family shares a distant ancestry with sirenians and hyraxes, with a common ancestor likely being an amphibious hyracoid. DNA studies also show significant interbreeding among 19 subpopulations. Fossil evidence and DNA evidence together suggest the oldest modern human remains in Europe are approximately 42,000 years old."
+1290,Does a polar bear live in the Arctic?,yes,"Yes, a polar bear lives in the Arctic."
+1292,Is a polar bear white in color?,yes,"Yes, a polar bear is white in color."
+1294,Is a polar bear at high risk of extinction?,yes,"Yes, a polar bear is at high risk of extinction. The polar bear is listed as vulnerable, with projected population declines due to global warming. The United States Geological Survey forecasts two-thirds of the world's polar bears will disappear by 2050."
+1296,How heavy is a male polar bear?,300-600 kg (660-1320 lb),A male polar bear weighs 350-650 kg (770-1500+ lb). The largest recorded male polar bear weighed 1002 kg (2200 lb).
+1298,How heavy was the largest polar bear on record?,1002 kg (2200 lb) ,The largest polar bear on record weighed 1002 kg (2200 lb).
+1300,What does a polar bear's fur provide?,It provides the animal with effective camouflage.,A polar bear's fur provides camouflage and insulation.
+1302,Do female polar bears weight more than the male?,no,"No, female polar bears do not weigh more than male polar bears. Adult females are roughly half the size of males and normally weigh 150-250 kg, while males weigh 350-650 kg."
+1304,How much weight do female polar bears gain during pregnancy?,They gain double their weight.,Female polar bears double their weight during pregnancy.
+1306,Can polar bears be seen under infrared photography?,Polar bears are nearly invisible under infrared photography.,"Yes, polar bears can be seen under infrared photography."
+1308,What is actually black in color?,A polar bear's skin.,A melanistic leopard is actually black in color.
+1309,What insulate it against the cold?,Its think blubber and fur.,The thick layer of insulating feathers insulates penguins against the cold.
+1310,What includes a lengthy justification of why this species is listed as vulnerable?,Database entry.,The database entry includes a lengthy justification of why this species is listed as vulnerable.
+1311,What do with greenpeace and the natural resources defense council have in common?,They filed lawsuits in California.,Greenpeace and the Natural Resources Defense Council are both environmental organizations that filed a lawsuit along with the Center for Biological Diversity.
+1312,Are studies insufficient evidence for global protection?,It is arguable.,"Yes, according to the context, Mitchell Taylor argued that local studies are insufficient evidence for global protection."
+1313,Are polar bears excellent swimmers?,yes,"Yes, polar bears are excellent swimmers."
+1314,"A semi-aquatic marine mammal , the polar bear has what?","It has adapted for life on a combination of land, sea, and ice.",A polar bear has a thick blubber and fur layer that insulates it against the cold.
+1315,Garbage is what?,"Garbage is now recycled or transported to Thompson, Manitoba.","Garbage is what polar bears may consume, including hazardous substances."
+1316,The bears sometimes what?,They sometimes have problems with various skin diseases with dermatitis caused sometimes by mites or other parasites.,The bears sometimes have problems with skin diseases and dermatitis.
+1317,Is the Polar Bear the mascot of Bowdoin college ?,yes,"Yes, the Polar Bear is the mascot of Bowdoin college."
+1318,Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?,yes,Yes.
+1319,"Did Mitchell Taylor , the Nunavut Government Manager of Wildlife Research , not write a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time ?",no,"No, Mitchell Taylor did write a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time."
+1320,Are Cubs born in December without awakening the mother ?,yes,"Yes, Cubs are born in December without awakening the mother."
+1321,Does Qatar rank as the eighth richest country in the world per capita?,No.,"Yes, according to the context, Qatar ranks as the ninth richest country in the world per capita."
+1323,Do nearly all Qataris profess Islam?,Yes.,"Yes, nearly all Qataris profess Islam."
+1325,Can women legally drive in Qatar?,Yes.,"Yes, women can legally drive in Qatar."
+1327,When did Qatar become an independent state?,"September 3, 1971.","Qatar became an independent state on September 3, 1971."
+1329,Where is Qatar's telecommunication system centered?,Doha.,Doha.
+1331,Where did a suicide-bombing kill a teacher in 2005?,At the Doha Players Theatre.,Doha Players Theatre.
+1333,Does the native pronunciation of Qatar sound like 'cutter'?,Yes.,"No, the native pronunciation of Qatar does not sound like 'cutter'. It falls between 'cutter' and 'gutter', but not like 'guitar'."
+1335,What is the Arabic word for municipalities?,baladiyah.,"The Arabic word for municipalities is ""baladiyah""."
+1337,What universities are in Education City?,"Carnegie Mellon University, Georgetown University School of Foreign Service, Texas A&M University, Virginia Commonwealth University, and Cornell University's Weill Medical College.","The universities in Education City, Qatar are: Carnegie Mellon University, Georgetown University School of Foreign Service, Texas A&M University, Virginia Commonwealth University, Cornell University's Weill Medical College, and Northwestern University."
+1339,What carried with it a tacit recognition of Qatar's status as distinct from Bahrain?,The British Protectorate (per Colonel Lewis Pelly) asking to negotiate with a representative from Qatar after Bahrain's violation of the 1820 Anglo-Bahraini Treaty.,The request carried with it a tacit recognition of Qatar's status as distinct from Bahrain.
+1340,Qatar became an independent sovereign state in what year?,"On September 3, 1971.",Qatar became an independent sovereign state in 1971.
+1341,"What consists of a low, barren plain, covered with sand?",Much of the country.,"A low, barren plain covered with sand."
+1342,How do qatar and the wider region relate?,Qatar is aiming to become a role model for economic and social transformation in the region. Large scale investment in all social and economic sectors will also lead to the development of a strong financial market.,"Qatar is part of the Arab world and is situated in Southwest Asia, bordering Saudi Arabia and the Persian Gulf. It aims to lead economic and social transformation in the region through investments in various sectors. Qatar's economy relies heavily on oil and natural gas exports, which contribute to its high GDP per capita and wealth. The country has a significant expatriate population, mostly male, leading to a skewed sex ratio."
+1343,Was Qatar University founded in 1973?,Yes,"Yes, Qatar University was founded in 1973."
+1344,Is Qatar bordered by Saudi Arabia to the south?,Yes,"Yes, according to the context, Qatar is bordered by Saudi Arabia to the south."
+1345,What bordered by Saudi?,Qatar,Saudi Arabia bordered Qatar to the south.
+1346,Who served as the headquarters and one of the main launching sites of the US invasion of Iraq in 2003 ?,Qatar.,Qatar served as the headquarters and one of the main launching sites of the US invasion of Iraq in 2003.
+1347,Has Qatar a modern Telecommunication system centered in Doha ?,Yes,"Yes, Qatar has a modern Telecommunication system centered in Doha."
+1348,Was Qatar University founded in 1973 ?,Yes,"Yes, Qatar University was founded in 1973."
+1349,"Did the Qataris not choose as their negotiator the respected entrepreneur and long-time resident of Doha , Muhammed bin Thani ?",Yes,"No, the Qataris did choose Muhammed bin Thani as their negotiator."
+1350,Will oil and gas probably remain the backbone of Qatar 's economy for some time to come ?,Yes,"Yes, oil and gas will probably remain the backbone of Qatar's economy for some time to come."
+1351,"Has it been created with a long term perspective to support the development of Qatar and the wider region , develop local and regional markets , and strengthen the links between the energy based economies and global financial markets ?",Yes,"Yes, the Qatar Financial Centre (QFC) has been created with a long term perspective to support the development of Qatar and the wider region, develop local and regional markets, and strengthen the links between the energy based economies and global financial markets."
+1352,What happened in these positions in english?,These allophones cannot occur there.,"The question is unclear. The provided context includes different events: the 1952 Revolution, the assassination of Abraham Lincoln, Pascal's Memorial, and Coolidge with reporters and cameramen. Please specify which ""positions"" are being referred to."
+1353,Can these allophones not occur in these positions in english?,yes,"Yes, these allophones cannot occur in these positions in English."
+1354,"Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?",Yes,Yes.
+1355,Does Romania border Hungary?,Yes.,"Yes, Romania borders Hungary."
+1357,Is Romania a secular state?,Yes.,"Yes, Romania is a secular state."
+1359,Is the president elected by popular vote?,Yes.,"Yes, the president is elected by popular vote."
+1361,How many counties is Romania divided into?,41.,Forty-one counties.
+1363,What is the highest mountain in Romania?,Moldoveanu Peak.,"The highest mountain in Romania is Moldoveanu Peak, which is 2544 meters tall."
+1365,What is the official language of Romania?,Romanian.,Romanian.
+1367,Is the Romanian economy doing well?,Yes.,"Based on the evidence, the Romanian economy is doing well. It has experienced high growth, low unemployment, and has attracted significant foreign investment. The country has improved its economic freedom ranking and is considered an upper-middle income economy. Additionally, the economy is diverse, with a strong services sector and growing tourism industry."
+1368,Are there many Roma in Romania?,No.,"Yes, there are many Roma in Romania. According to the 2002 census, 535,250 Roma live in Romania, making up 2% of the population."
+1370,How many territories joined to form Romania?,2.,"Two territories joined to form Romania: Moldavia and Wallachia in 1859. Later, Transylvania, Bukovina, and Bessarabia also joined."
+1372,Does Romania share a border with Ukraine?,yes,"Yes, Romania shares a border with Ukraine."
+1374,Did Romania declare neutrality during World War I?,yes,"Yes, Romania declared neutrality during World War I."
+1376,Does Romania share the same language with Moldova?,yes,"Yes, Romania and Moldova share the same language."
+1378,"Who was the first gymnast to score a perfect ""ten""?",Nadia Comăneci,Nadia Comăneci.
+1380,What is the largest city in Romania?,Bucharest,Bucharest is the largest city in Romania.
+1382,What is the largest ethnic minority in Romania?,Hungarians,"The largest ethnic minority in Romania is Hungarians, making up 6.6% of the population according to the 2002 census."
+1384,How many countries in Europe are bigger than Romania?  ,eleven,12 countries in Europe are bigger than Romania.
+1386,Why doesn't Romania have a state religion?  ,Romania is a secular state,"Because Romania is a secular state, it does not have a state religion."
+1387,Why wasn't Romania neutral during World War II?,it received a Soviet ultimatum,"Romania was not neutral during World War II because of pressure from Moscow and Berlin, leading it to retreat from Bessarabia and Northern Bukovina. This, along with other factors, prompted the government to join the Axis. Romania also entered the war on the side of the Axis powers due to its importance as a source of oil for Nazi Germany."
+1389,"Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?",2007,2007.
+1390,"What are approximately 42,000 years old and have been nicknamed`` John of Anina''?",the remains (the lower jaw) of the oldest modern human,"The remains are approximately 42,000 years old and have been nicknamed ""John of Anina."""
+1391,"Is it true that romania has a population of 21,698,181?",Yes,"Yes, according to the 2002 census, Romania has a population of 21,698,181."
+1392,What do economy and law have in common?,(not sure how to answer this),"Economy and law both influence and are influenced by each other. The economy is affected by legal frameworks and policies, while law is shaped by economic conditions and needs."
+1393,What did Tourism in Romania attract in 2005?,investments worth 400 million euros,Tourism in Romania attracted â¬400 million in investments in 2005.
+1395,Is Romania a semi-presidential unitary state?,Yes,"Yes, Romania is a semi-presidential unitary state."
+1398,Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?,Yes,Yes. Romania is a semi-presidential democratic republic where executive functions are shared between the president and the prime minister.
+1399,Was Gellu Naum the leader of the surrealist movement in Romania ?,Yes,"Yes, according to the context, Gellu Naum was the leader of the surrealist movement in Romania."
+1400,Was the Bucharest Metro only opened in 1979 ?,Yes,"Yes, the Bucharest Metro was only opened in 1979."
+1401,"Is romania -LRB- , -RRB- a country in southeastern europe?",Yes,"Yes, Romania is a country in southeastern europe."
+1402,Is romania a semi-presidential unitary state?,Yes,"Yes, Romania is a semi-presidential unitary state."
+1403,Do singaporeans enjoy squid?,"Yes, they do.","Yes, Singaporeans enjoy squid."
+1406,Did Singapore's standard of living decrease since independence?,"No, the standard living was raised.","No, Singapore's standard of living did not decrease since independence. It has increased progressively."
+1409,Did the media contribute 15.6% to Singapore's GDP in 2001?,"No, it contributed 1.56% to GDP in 2001.","Yes, the media contributed 1.56% to Singapore's GDP in 2001."
+1412,How many people use the bus network daily?,More than 2.78 million people.,More than 2.78 million people use the bus network daily.
+1415,Where did Orang Laut people live?,"Orang Laut people lived around the coast, rivers and smaller islands.","The Orang Laut people lived on the island of Singapore, specifically in the South-east part of the river mouth, where Kampong Glam stands today."
+1418,What is the MRT?,One of three heavy rail passenger transport lines in Singapore.,"The MRT is the Mass Rapid Transit system, a heavy rail passenger transport system in Singapore."
+1421,How is Singapore's climate characterized?,Singapore has a tropical rainforest climate with no distinctive seasons.,"Singapore's climate is characterized by a tropical rainforest climate with no distinct seasons, uniform temperature, high humidity, and abundant rainfall. Temperatures range from 22°C to 34°C, with high humidity and heavy rain. June and July are the hottest months, and November and December are the wetter monsoon season. There is often haze from bushfires in neighboring Indonesia from August to October."
+1424,How much increase in the media's contribution to GDP is the government seeking?,The government seeks to increase its GDP contribution to 3% by 2012. ,The government seeks an increase in the media's contribution to GDP from 1.56% to 3%.
+1427,How many days did it take the Imperial Japanese Army to win the Battle of Singapore?,Six days,Six days.
+1430,Is Singapore located at the southern tip of the Korean Penisula?,no,"No. Singapore is located at the southern tip of the Malay Peninsula, not the Korean Peninsula."
+1432,Is Singapore a city-state?,yes,"Yes, Singapore is a city-state."
+1434,Has Sang Nila Utama visited Singapore?,yes,"Based on the context, Sang Nila Utama visited Singapore. The context states that he landed on the island after a thunderstorm and spotted an auspicious beast, which is believed to have been a lion."
+1436,"What does ""singa"" mean?",lion,"""Singa"" means ""lion"" in Sanskrit."
+1437,When is the first record of S08_settlement in Singapore?,second century AD,The first record of S08_settlement in Singapore is not mentioned in the provided context.
+1439,Which nation invaded Singapore during World War II?,Japan,Japan.
+1441,"Why Churchill called the occupation of Singapor by Janpan during WWII ""Britain's greatest defeat""?",The British were defeated in six days,"Because the British were defeated in six days and surrendered the ""Bastion of the Empire"" to the Japanese during World War II."
+1442,Was Lee Kuan Yew a successful leader of Singapore?,yes,"Yes, Lee Kuan Yew was a successful leader of Singapore. His administration reduced unemployment, raised the standard of living, and developed the country's economic infrastructure. He also curbed racial tension and established an independent national defense system."
+1444,When did Goh Chok Tong succeed Lee as Prime Minister?,"In 1990, Goh Chok Tong succeeded Lee as Prime Minister.",Goh Chok Tong succeeded Lee as Prime Minister in 1990.
+1446,What is the primary domestic source of water supply?,The primary domestic source of water supply in Singapore is rainfall.,"The primary domestic source of water supply in Singapore is rainfall, collected in reservoirs or catchment areas."
+1448,What is the national language of Singapore?,The national language of Singapore is Malay.,The national language of Singapore is Malay.
+1450,Where is the National Orchid Garden?,Singapore Botanic Gardens.,The National Orchid Garden is located in Singapore Botanic Gardens.
+1452,Why are relations with Malaysia and Indonesia important?,"Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.","Relations with Malaysia and Indonesia are important due to their geographical proximity and shared strategic interests. Singapore shares borders with both countries, and both are key players in regional politics and trade. Malaysia and Indonesia are also part of ASEAN, which is crucial for regional stability and cooperation. Additionally, Indonesia's historical and economic ties, along with its role in international organizations, make it a significant partner for Singapore."
+1454,What is the most densely populated independent country in the world?,Monaco,The most densely populated independent country in the world is not mentioned in the provided context.
+1456,Who did Sir Thomas Stamford Raffles work for?,British East India Company,Sir Thomas Stamford Raffles worked for the British East India Company.
+1458,When was Lee Kuan Yew prime minister of Singapore?,1959,Lee Kuan Yew was prime minister of Singapore from 1959 to 1990.
+1460,What is the punishment for first-degree murder?,There are laws which allow capital punishment in Singapore for first-degree murder and drug trafficking.,"The punishment for first-degree murder in Singapore is capital punishment, which includes the death penalty."
+1462,What established a trading post on the island in 1819?,British East India Company ,The British East India Company.
+1463,What used Singapore as a strategic trading post along the spice route?,British,The British East India Company used Singapore as a strategic trading post along the spice route.
+1464,What became one of the most important commercial and military centres of the British Empire?,Singapore,Singapore became one of the most important commercial and military centres of the British Empire.
+1465,"Who boasted a sizeable community of 100,000 by 1869?",British India office,"The context provided does not mention any specific city or community that boasted a sizeable community of 100,000 by 1869."
+1466,How do reservoirs and water relate?,"By 2001, there were 19 raw water reservoirs, 9 treatment works and 14 storage or service reservoirs locally to serve domestic needs. ","Reservoirs store and collect water, including rainwater, for use in Singapore. Water is collected in reservoirs and catchment areas, which are essential for the city-state's water supply."
+1467,Is it true that singapore has several long - standing disputes with malaysia?,Yes,"Yes, it is true that Singapore has several long-standing disputes with Malaysia."
+1468,Has Singapore Changi Airport a network of 81 airlines connecting Singapore to 185 cities in 58 countries ?,Yes,"Yes, according to the context, Singapore Changi Airport has a network of 81 airlines connecting Singapore to 185 cities in 58 countries."
+1469,Has Singapore a network of reservoirs and water catchment areas ?,Yes,"Yes, Singapore has a network of reservoirs and water catchment areas."
+1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",Yes,"Yes, based on the context provided."
+1471,"Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?",No,"The economy does depend heavily on exports refining imported goods, especially in manufacturing, as stated in the context."
+1472,"Is singapore -LRB- ; (: ; , -RRB- , officially the republic of singapore -LRB- ; (: ; , -RRB- , an island nation located at the southern tip of the malay peninsula?",Yes,Yes.
+1473,Is singapore the 17th wealthiest country in the world in terms of gdp per capita?,No,"Yes, according to the context, Singapore is the 17th wealthiest country in the world in terms of GDP per capita."
+1474,Was Thedore Roosevelt  a member of the Republican Party?,Yes,"Yes, Theodore Roosevelt was a member of the Republican Party."
+1476,Does Theodore Roosevelt have a brother?,Yes,"Yes, Theodore Roosevelt had a brother named Elliott."
+1478,Did Theodore Roosevelt go to Harvard?,Yes,"Yes, Theodore Roosevelt went to Harvard."
+1480,Where was Theodore Roosevelt born?,28 East 20th Street in the modern-day Gramercy section of New York City,"Theodore Roosevelt was born in a four-story brownstone at 28 East 20th Street, in the modern-day Gramercy section of New York City."
+1482,What did Roosevelt do to improve his physical condition?,Roosevelt took up exercise,Roosevelt started boxing lessons to deal with bullies and improve his physical condition.
+1484,Why did Roosevelt start Boxing lessons?,To deal with bullies,Roosevelt started boxing lessons to deal with bullies.
+1486,What was the nickname of Theodore Roosevelt's sister Anna?,Bamie as a child and Bye as an adult,"Anna Roosevelt's nickname was ""Bamie"" as a child and ""Bye"" as an adult."
+1488,What was Roosevelt's justification for supporting desegregation of schools in New York?,Noting that his children had been educated with other races and there was nothing wrong with it,Roosevelt's justification for supporting desegregation of schools in New York was based on his personal experience that there was nothing wrong with his children being educated with other races.
+1490,How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?,mixing of the races on social occassions,"The context provided does not mention how newspapers responded to Roosevelt inviting Brooker T. Washington to dinner at the White House. Therefore, the answer cannot be determined from the given evidence."
+1492,Did Theodore Roosevelt study Judo?,No,"No, Theodore Roosevelt did not study Judo. He practiced jujutsu after losing his vision in one eye."
+1494,Did Roosevelt receive a Medal of Honor?,yes,"Yes, Roosevelt received a Medal of Honor posthumously on January 16, 2001."
+1496,Did Roosevelt study biology?,yes,"Yes, Roosevelt studied biology."
+1498,Where was Theodore Roosevelt from?,Gramercy section of New York City,Theodore Roosevelt was from New York City.
+1500,Who was Roosevelt's presidential hero?,Lincoln was Roosevelt's presidential hero.,"The text mentions that Roosevelt's friend, historian Henry Adams, called him ""pure act,"" but it does not explicitly state who Roosevelt's presidential hero was. The answer cannot be determined from the provided context."
+1502,When did Roosevelt die?,"On January 6, 1919, Roosevelt died in his sleep.","Roosevelt died on January 6, 1919."
+1504,Who helped to fund Roosevelt's African safari?,Financed by Andrew Carnegie and his own proposed writings,Andrew Carnegie and Roosevelt himself.
+1506,Did Roosevelt support racial integration in schools?,yes,"Yes, Roosevelt supported racial integration in schools."
+1508,Was Roosevelt's family rich?,yes,"Yes, Roosevelt's family was rich."
+1510,Are turtles ectothermic?,Yes,"Yes, turtles are ectothermic."
+1512,Does the mother care for the young?,No,"Yes, the mother cares for the young, as allomothers and the entire female group help in raising the calf."
+1514,Are turtles pets?,Yes,"Yes, turtles are pets."
+1516,What shape are the eggs of the larest species of turtle?,Spherical,The eggs of the largest species of turtle are spherical.
+1518,How often do turtles breed?,Every few years or more,Turtles often breed every few years or more.
+1519,What do all turtles and tortoises breathe?,air,All turtles and tortoises breathe air.
+1521,How do turtles reproduce?,They lay eggs,"Turtles reproduce by laying eggs. The eggs are soft and leathery, and the mother digs holes in mud or sand to deposit them. The eggs are then covered and left to incubate. The temperature of the eggs determines the sex of the hatchlings. After hatching, the young turtles move to the water. The mother does not care for the young."
+1523,What has been discovered about turtles organs?,They do not gradually break down or become less efficient over time,"Turtles' organs, like their liver, lungs, and kidneys, do not break down or become less efficient with age, remaining similar to those of younger turtles."
+1525,What suborder of turtle draws its head into its shell?,Pleurodira,Pleurodira.
+1527,Do sea turtles lay eggs on dry sandy beaches?,Yes,"Yes, sea turtles lay eggs on dry sandy beaches."
+1529,Are Pleurodira known as side-necked turtles?,Yes,"Yes, Pleurodira are known as side-necked turtles."
+1531,Are turtles a part of the Flying Spaghetti Monster?,*shrug*,"No, turtles are not a part of the Flying Spaghetti Monster. The provided context discusses turtles' biological characteristics, classification, and habitat, but does not mention the Flying Spaghetti Monster."
+1532,How many suborders are turtles divided into?,Three.,Three suborders.
+1534,Name a turtle popularly kept as a pet.,Russian Tortoises,Russian Tortoise.
+1536,Name four related articles for the article on turtles.,"Triassic, Ernst Haeckel, Kunstformen der Natur, Animal","1. Encyclopedia of Turtles  
+2. Turtles of the World  
+3. An Interpet Guide to Reptiles & Amphibians  
+4. Testudines and Turtle Evolution"
+1538,"If a turtle egg was kept warm, what would likely hatch?",A female turtle.,"If a turtle egg was kept warm, a female would likely hatch."
+1540,What do turles use to breathe in the water?,Papillae,Turtles use papillae in their cloaca to take up dissolved oxygen from water.
+1541,Why are side-necked turtles called side-necked turtles?,Because of the way they withdraw their heads into their shells.,Side-necked turtles are called this because they withdraw their heads into their shells.
+1543,Do turtles lay eggs underwater?,No,"No, turtles do not lay eggs underwater. They lay eggs on land, such as sandy beaches for sea turtles or mud/sand for others."
+1545,Are turtle eggs leathery and soft?,Yes,"Yes, turtle eggs are slightly soft and leathery."
+1547,Are turtles being examined for longevity genes?,Yes,"Yes, researchers are examining the turtle genome for longevity genes."
+1549,What suborder of turtles is extinct?,Paracryptodira,The extinct suborder of turtles is Paracryptodira.
+1551,What do turtle eggs preared to eat consist mainly of?,Yolk,Turtle eggs prepared to eat consist mainly of yolk.
+1552,Where do sea turtles lay their eggs?,Holes Dug into the Mud or Sand,Sea turtles lay their eggs on dry sandy beaches.
+1554,What is the smallest suborder of turtles?,Pleurodira,The smallest suborder of turtles is Pleurodira.
+1556,What are turtle eggs covered in when they incubate?,Mud or Sand,Turtle eggs are covered in a leathery shell.
+1558,What type of creatures breathe air and don't lay eggs underwater?,Amniotes,"Reptiles, including turtles, breathe air and do not lay eggs underwater."
+1560,What are deposited in holes dug into mud or sand?,eggs,Mud or sand is deposited in holes dug by elephants for water or protection.
+1561,What sort of turtles are ectothermic?,all of them,Turtles are ectothermic.
+1563,Are the largest turtles aquatic?,yes,"Yes, the largest turtles are aquatic."
+1564,Is aquatic respiration in Australian freshwater turtles being studied?,yes,"Yes, aquatic respiration in Australian freshwater turtles is currently being studied."
+1565,"These projections , called papillae , have what?",a rich blood supply,"These projections, called papillae, have a rich blood supply."
+1566,The eggs of the largest species are what?,spherical,The eggs of the largest species are spherical.
+1567,Has this inspired genetic researchers to begin examining the turtle genome for longevity genes ?,yes,"Yes, the discovery has inspired genetic researchers to begin examining the turtle genome for longevity genes."
+1568,Can turtles take many years to reach breeding age ?,yes,"Yes, turtles can take many years to reach breeding age."
+1569,Are Immature sea turtles not cared for by the adults ?,yes,"Yes, the context states that immature sea turtles are not cared for by the adults."
+1570,"Are the Pleurodira sometimes known as the side-necked turtles , a reference to the way they withdraw their heads into their shells ?",yes,"Yes, the Pleurodira are sometimes known as the side-necked turtles, a reference to the way they withdraw their heads into their shells."
+1571,"Does the Order Testudines not include both extant -LRB- living -RRB- and extinct species , the earliest known turtles being from around 215 million years ago ?",yes,"Yes, the Order Testudines includes both extant and extinct species, with the earliest known turtles being from around 215 million years ago."
+1572,Was Ulysses Grant a general in the American Civil War?,Yes,"Yes, Ulysses Grant was a general in the American Civil War."
+1574,Was Grant's father-in-law a Democrat?,Yes,"Yes, Grant's father-in-law was a Democrat."
+1576,Did Ulysses win the Battle of Champion Hill?,Yes,"Yes, Ulysses S. Grant won the Battle of Champion Hill."
+1578,Who was Grant's brother in law?,Fred Dent,Grant's brother-in-law was his father-in-law.
+1580,Where was Grant born?,"Point Pleasant, Ohio","Grant was born in Point Pleasant, Clermont County, Ohio."
+1582,What was Grant's political affiliation?,Republican,Grant's political affiliation was Republican.
+1584,"Why did Grant say ""Damn, I had nothing to do with this batte.""?",It went well.,"The provided context does not mention Grant saying ""Damn, I had nothing to do with this battle."" Therefore, there is no evidence to answer the question based on the given text."
+1586,Did Horace Greenley lose in the presidential elections of 1872?,Yes,"No, Horace Greenley did not lose in the presidential elections of 1872. The text does not mention Horace Greenley in the context of the 1872 elections."
+1588,Why did Grant think that war was unjust?,He thought it was designed to gain land open to slavery.,The provided context does not mention why Grant thought war was unjust.
+1590,Who achieved international fame as the leading Union general in the American Civil War?,Grant,Ulysses S. Grant achieved international fame as the leading Union general in the American Civil War.
+1591,Grant was elected president as a Republican in what year?,1868,1868.
+1592,Who took a hard line that reduced violence by groups like the Ku Klux Klan?,Grant,Grant took a hard line that reduced violence by groups like the Ku Klux Klan.
+1593,When did he vote for democrat james buchanan?,1856,He voted for Democrat James Buchanan in 1856.
+1594,"Who did President Lincoln promote of major general in the regular army, effective July 4?",Grant,"President Lincoln promoted Ulysses S. Grant to the rank of major general in the regular army, effective July 4."
+1595,Was Grant elected president as a Republican?,yes,Yes.
+1596,What was from Pennsylvania?,His father,"Altoona, Pennsylvania."
+1597,Was it a two-sentence description that completely caught the essence of Ulysses S. Grant ?,yes,Yes.
+1598,Was Grant 's favorite brand of bourbon whiskey Old Crow ?,yes,"Yes, based on the context provided, Grant's favorite brand of bourbon whiskey was Old Crow."
+1599,Had he smoked only sporadically ?,yes,No.
+1600,"Did Grant & Perkins not sell harnesses , saddles , and other leather goods and purchase hides from farmers in the prosperous Galena area ?",they did,"Yes, Grant & Perkins sold harnesses, saddles, and other leather goods and purchased hides from farmers in the prosperous Galena area."
+1601,Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?,yes,Yes.
+1602,What happened in 1865?,he accepted the surrender of Robert E. Lee,"In 1865, the American Civil War ended with Lee's surrender at Appomattox Court House on April 9, 1865. Lincoln delivered his second inaugural address in March 1865. Lincoln entered Richmond, symbolizing Union authority, and was greeted by freed slaves. Other Confederate armies surrendered soon after, and the war was effectively over."
+1603,What happened in recent years?,his reputation as president has improved,"In recent years, there have been developments in democratic processes, regional autonomy, and the first direct presidential election in 2004. Political and economic instability, social unrest, corruption, and terrorism have slowed progress. A political settlement to an armed separatist conflict in Aceh was achieved in 2005. The country is recovering from a 2002 crisis, with improving indicators in 2004."
+1604,Is Uruguay located in the northwesten part of Africa?,No.,"No, Uruguay is not located in the northwest part of Africa. It is located in the southeastern part of South America."
+1606,Is Uruguay's capital Montevideo?,Yes.,"Yes, Uruguay's capital is Montevideo."
+1608,Does Uruguay have cold summers?,No.,"Yes, Uruguay has cold summers."
+1610,Who founded Montevideo?,The Spanish.,The Spanish founded Montevideo in the early 18th century.
+1612,Where is Uruguay's oldest church?,"San Carlos, Maldonado.","Uruguay's oldest church is in San Carlos, Maldonado."
+1614,Who heavily influenced the architecture and culture of Montevideo?,European immigrants.,European immigrants heavily influenced the architecture and culture of Montevideo.
+1616,What are poor neighborhoods called informally?,Cantegriles.,Poor neighborhoods are informally called Cantegriles.
+1618,Is uruguay's landscape mountainous?,No.,"No, Uruguay's landscape is not mountainous. It features mostly rolling plains and low hill ranges. The highest point is a mountain range with elevations up to 513.66 meters."
+1620,What religion do most Uruguayans profess?,None.,Most Uruguayans profess Roman Catholicism (62%).
+1622,Is Uruguay located in South America?,Yes. It's located in the southeastern part,"Yes, Uruguay is located in South America."
+1624,Can citizens propose changes to the Constitution?,Yes. People are allowed to challenge laws.,"Yes, citizens can propose changes to the Constitution, as shown by the Uruguayan example where citizens used a Plebiscite to propose constitutional changes."
+1626,Did Uruguay host the first ever World Cup?,"Yes, in 1930.","Yes, Uruguay hosted the first ever World Cup in 1930."
+1630,How many square kilometres of continental land is Uruguay?,176.215 km�� ,"176,214 square kilometres."
+1632,How much of the population is of white European descent?,88%,88% of the population are of white European descent.
+1634,Why was the capital of Uruguay founded?,For a military stronghold.,"The capital of Uruguay, Montevideo, was founded by the Spanish in the early 18th century as a military stronghold."
+1636,How many times has Uruguay won the World Cup?,Twice. ,Uruguay has won the World Cup twice.
+1638,How much is the average income of an African woman compared to a European man?,African women earns 0.65 * 0.718  = 46.67% of a European man earns in average,The average income of an African woman is 65% of that of a European man.
+1639,Does Uruguay recognize same-sex civil unions?,Yes,"Yes, Uruguay recognizes same-sex civil unions."
+1641,Does Uruguay border French Guiana?,No,"Yes, Uruguay borders French Guiana."
+1643,Is Uruguay's warmest month June?,No,"Yes, Uruguay's warmest month is January, not June."
+1645,What does a citizen use to propose changes to the Constitution?,Referendum,A citizen uses a Plebiscite to propose changes to the Constitution.
+1649,What religions are found in Uruguay?,"Roman Catholic, Protestant, Jewish, and nonprofessing.","Catholic, Protestant, Jewish, and nonprofessing."
+1651,What has Uruguay done to be competitive in agriculture?,"Labeling as ""Natural"" or ""Ecological""","Uruguay has focused on branding its agricultural products, such as ""Uruguayan grass-fed beef"" and ""Uruguay Natural,"" to establish itself as a premium brand. It has also positioned itself as a natural or ecological producer due to lower inputs of labor, technology, and capital."
+1653,What are the names of Uruguay's political parties?,Partido Colorado and Partido Blanco,The provided context does not list the specific names of Uruguay's political parties.
+1655,Is Uruguay the smallest soverign nation in South America?,No,"No, Uruguay is not the smallest sovereign nation in South America. Suriname is the smallest, and Uruguay is the second smallest."
+1657,What was founded by the Spanish in the early 18th century as a military stronghold?,Montevideo,Montevideo was founded by the Spanish in the early 18th century as a military stronghold.
+1658,What has many possible meanings?,(What?),"The phrase ""elephants never forget"" has a literal meaning. The word ""român"" has many possible meanings."
+1659,How do india and latin america relate?,Uruguay exports architectural services to India and Latin America,India and Latin America have a relationship through Uruguay's exports of architectural services. Uruguay exports architectural services to both India and Latin America.
+1660,What did Uruguay win in 1828?,Its independence,Uruguay won its independence in 1828.
+1661,Is Uruguay very common?,No?,"The question is unclear. ""Is Uruguay very common?"" does not make sense in this context. Uruguay is a country, not something that is ""common."""
+1662,Is The climate in Uruguay temperate?,Yes,"Yes, the climate in Uruguay is temperate."
+1663,Is the main sport in Uruguay football ?,Yes,Yes.
+1664,"Is Uruguay 's oldest church in San Carlos , Maldonado ?",Yes,Yes.
+1665,Is Uruguay a member of the Cairns Group of exporters of agricultural products ?,Yes,"Yes, Uruguay is a member of the Cairns Group of exporters of agricultural products."
+1666,Is it widely considered the most secular nation in Latin America ?,Yes,"Yes, it is widely considered the most secular nation in Latin America."
+1667,"Is it the second smallest independent country in south america , larger only than suriname and the french overseas department of french guiana?",Yes,"Yes, the country described is the second smallest independent country in South America, larger only than Suriname and French Guiana."
+1668,"Is it a constitutional democracy , where the president fulfills the roles of both head of state and head of government?",Yes,"Yes, Uruguay is a constitutional democracy where the president fulfills the roles of both head of state and head of government."
+1669,Was Woodrow Wilson the thirtieth President of the United States?,no,"No, Woodrow Wilson was the twenty-eighth President of the United States, not the thirtieth."
+1671,Did Woodrow Wilson create the League of Nations?,yes,"Yes, Woodrow Wilson created the League of Nations."
+1673,Did the U.S. join the League of Nations?,no,"No, the U.S. did not join the League of Nations."
+1675,Where was the League of Nations created?,Paris,The League of Nations was created in Paris.
+1677,When was Woodrow Wilson born?,"December 28, 1856",Woodrow Wilson was born in 1856.
+1679,Who was President when Wilson finished Congressional Government?,Grover Cleveland,"Wilson was President when Congressional Government was completed. The text does not specify when Wilson finished Congressional Government, but it mentions that Wilson was President during the 1912 election. Therefore, the answer is Woodrow Wilson."
+1681,What field did Woodrow Wilson leave law practice to study?,history and political science,History and political science.
+1683,What caused Wilson to ask Congress to declare war on the Central Powers?,German began unrestricted submarine warfare,"Wilson asked Congress to declare war on the Central Powers because he believed the war had become a real threat to humanity and that the U.S. needed to intervene to prevent future catastrophic wars. He wanted to build a basis for peace through his ""war to end all wars"" initiative, which included the Fourteen Points."
+1685,What was more damaging than moving students into colleges?,His confrontation with Andrew Fleming West,More damaging than moving students into colleges was the confrontation with Andrew Fleming West and the rejection of Wilson's plan for colleges.
+1686,Was Wilson a member of the Phi Kappa Psi fraternity?,yes,"Yes, Wilson was a member of the Phi Kappa Psi fraternity."
+1688,Was Wilson an automobile enthusiast?,yes,"The context does not mention Wilson being an automobile enthusiast. However, it does mention that he continued going for daily drives after retiring from the White House. While this suggests some interest in driving, it does not confirm he was an automobile enthusiast."
+1690,Did Wilson's father own slaves?,yes,"Yes, Wilson's father owned slaves."
+1692,Where is Wilson buried?,He was buried in Washington National Cathedral,Wilson is buried in the Washington National Cathedral.
+1694,Where did Wilson attend law school?,Wilson attended law school at University of Virginia,Wilson attended law school at the University of Virginia.
+1696,Where was Woodrow Wilson born?,"Woodrow Wilson was born in Staunton, Virginia","Woodrow Wilson was born in Staunton, Virginia."
+1698,Did Wilson support desegregation?,no,The provided context does not mention Wilson's stance on desegregation.
+1700,Did Wilson support the committee system?,no,"No, Wilson did not support the committee system. He criticized it as undemocratic and corrupt."
+1702,Did Wilson have any siblings?,yes,"No, the evidence does not mention Wilson having any siblings."
+1704,What was Scots-Irish and Scottish?,His ancestry,"The context provided does not directly answer the question about what was Scots-Irish and Scottish. The text mentions Scottish Highlands, Scottish people, and Scottish Church, but does not explicitly define or explain what Scots-Irish and Scottish are."
+1705,"What defended slavery, owned slaves and S08_set up a Sunday school for them?",His father,"The context provided does not mention anyone who defended slavery, owned slaves, and set up a Sunday school for them. Therefore, I cannot answer the question based on the given evidence."
+1706,Who did Wilson win in 1917?,Irish Americans,Wilson won the 1917 U.S. presidential election.
+1707,Was Wilson awarded the 1919 Nobel Peace Prize?,Yes,"Yes, Wilson was awarded the 1919 Nobel Peace Prize."
+1708,Was Wilson a remarkably effective writer and thinker?,Yes,"Yes, based on the context, Wilson was a remarkably effective writer and thinker."
+1709,What lived in Columbia?,Wilson,The context does not provide information about what lived in Columbia.
+1710,Was Wilson president of the American Political Science Association in 1910 ?,Yes,"Yes, based on the context provided."
+1711,"Did he not cast his ballot for John M. Palmer , the presidential candidate of the National Democratic Party , or Gold Democrats , a short-lived party that supported a gold standard , low tariffs , and limited government ?",Yes,"Yes, he cast his ballot for John M. Palmer, the presidential candidate of the National Democratic Party, or Gold Democrats."
+1712,Did Wilson not spend 1914 through the beginning of 1917 trying to keep America out of the war in Europe ?,Yes,"Yes, Wilson did try to keep America out of the war in Europe from 1914 through the beginning of 1917."
+1713,"Was Wilson , a staunch opponent of antisemitism , sympathetic to the plight of Jews , especially in Poland and in France ?",Yes,"Yes. The evidence states that Wilson was a staunch opponent of antisemitism and sympathetic to the plight of Jews, especially in Poland and France."
+1714,What happened in 1917?,"raised billions through Liberty loans, imposed an income tax, S08_set up the War Industries Board, promoted labor union growth, supervised agriculture and food production through the Lever Act, took over control of the railroads, and suppressed anti-war movements","In 1917, Finland declared independence from Russia, the U.S. entered World War I, and the Battle of Vimy Ridge occurred. Additionally, Wilson worked to maintain U.S. neutrality but eventually led the country into the war. The U.S. also sent troops to Russia to protect supplies and prevent a German or Bolshevik takeover."

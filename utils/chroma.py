@@ -25,6 +25,6 @@ def init_collection(client, ids=None, documents=None, embedding_fn=None):
 
 
 def query_collection(collection, query):
-    results = collection.query(query_texts=[query], n_results=5)
+    results = collection.query(query_texts=[query], n_results=10)
 
     return results

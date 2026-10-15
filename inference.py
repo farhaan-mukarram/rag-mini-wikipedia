@@ -22,7 +22,7 @@ def infer(model, tokenizer, prompt, with_rag=False):
         enable_thinking=False,
     ).to(model.device)
 
-    outputs = model.generate(**inputs, max_new_tokens=256)
+    outputs = model.generate(**inputs, max_new_tokens=256, do_sample=False)
     answer = tokenizer.decode(
         outputs[0][inputs["input_ids"].shape[-1] :], skip_special_tokens=True
     )
