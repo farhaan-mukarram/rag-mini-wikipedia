@@ -8,7 +8,7 @@ def init_chroma_client():
     return client
 
 
-def init_collection(client, ids, documents, embedding_fn=None):
+def init_collection(client, ids=None, documents=None, embedding_fn=None):
     if embedding_fn is None:
         embedding_fn = SentenceTransformerEmbeddingFunction(
             model_name="all-MiniLM-L6-v2", device="cuda", normalize_embeddings=False
@@ -18,7 +18,8 @@ def init_collection(client, ids, documents, embedding_fn=None):
         name="mini-wiki", embedding_function=embedding_fn
     )
 
-    collection.add(ids=ids, documents=documents)
+    if ids is not None and documents is not None:
+        collection.add(ids=ids, documents=documents)
 
     return collection
 
